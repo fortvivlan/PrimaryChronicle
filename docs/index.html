@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Лингвистическая база Повести временных лет: сопоставление редакций и отбор примеров по аннотации, протографу и году.">
+  <meta name="copyright" content="Golden icons: pngtree.com. Copyright belongs to pngtree.com.">
+  <meta name="asset-attribution" content="Золотые иконки предоставлены pngtree.com; авторские права принадлежат pngtree.com.">
+  <meta name="theme-color" content="#243f35">
+  <title>Повесть временных лет · Лингвистическая база</title>
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="filter.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="identity"><img src="assets/favicon.png" alt="" width="46" height="46"><span>PRIMARY CHRONICLE <span class="identity-sub">Лингвистическая база</span></span></div>
+    <span class="demo-label"><span aria-hidden="true">●</span> Демоверсия</span>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <div><p class="eyebrow">ПОВЕСТЬ ВРЕМЕННЫХ ЛЕТ</p><h1 id="page-title">Текст. Форма. Значение.</h1><p class="lead">Перфектные конструкции в Лаврентьевской и Ипатьевской редакциях.<br>Сопоставляйте чтения и находите нужные контексты.</p></div>
+      <div class="corpus-note"><img src="assets/business.png" width="48" height="48" alt=""><div><span class="eyebrow">КОРПУС ПРИМЕРОВ</span><strong id="corpus-total">—</strong><span>из исходной таблицы</span></div></div>
+    </section>
+
+    <section class="filter-panel" aria-labelledby="filter-title">
+      <div class="panel-heading"><h2 id="filter-title">Отбор примеров</h2><button id="reset" type="button"><img src="assets/clean.png" alt="" width="22" height="22">Сбросить фильтры</button></div>
+      <form id="filters">
+        <div class="filter-grid">
+          <fieldset class="edition-field"><legend>Редакция</legend><div class="edition-options"><label><input type="radio" name="edition" value="both" checked><span>Обе</span></label><label><input type="radio" name="edition" value="lavr"><span>Лаврентьевская</span></label><label><input type="radio" name="edition" value="ipat"><span>Ипатьевская</span></label></div></fieldset>
+          <div class="filter-field"><label for="subject">Подлежащее</label><select id="subject" name="subject"><option value="">Все</option value="pro">pro — невыраженное</option><option value="NP">NP — именная группа</option></select></div>
+          <div class="filter-field"><label for="protograph">Протограф по стемме</label><select id="protograph" name="protograph"><option value="all">Все чтения</option></select></div>
+          <fieldset class="year-field"><legend>Диапазон лет</legend><div class="year-inputs"><label class="sr-only" for="year-from">Начальный год</label><input id="year-from" name="from" type="number" step="1" placeholder="От"><span aria-hidden="true">—</span><label class="sr-only" for="year-to">Конечный год</label><input id="year-to" name="to" type="number" step="1" placeholder="До"></div><label class="preamble-option"><input type="checkbox" id="preamble" checked>Включать преамбулу без года</label></fieldset>
+        </div>
+        <fieldset class="semantic-field"><legend>Семантическая аннотация <span class="legend-note">Можно выбрать несколько</span></legend><div id="semantic-options" class="semantic-options"></div></fieldset>
+        <p class="filter-hint">Без выбранных меток — вся семантика. Между выбранными метками действует «или», между фильтрами — «и».</p>
+        <p id="year-error" class="error" role="alert" hidden>Начальный год должен быть не больше конечного. Укажите целые годы.</p>
+      </form>
+    </section>
+
+    <section class="results" aria-labelledby="results-title" aria-busy="true">
+      <div class="results-heading"><div><p class="eyebrow">РЕЗУЛЬТАТЫ ОТБОРА</p><h2 id="results-title"><span id="shown">—</span> <span class="count-secondary">из <span id="total">—</span> примеров</span></h2></div><p id="edition-summary">Лаврентьевская + Ипатьевская</p></div>
+      <p class="scroll-hint">Прокрутите таблицу вправо, чтобы увидеть все столбцы.</p>
+      <div class="table-scroll" tabindex="0" role="region" aria-label="Таблица примеров, прокрутка по горизонтали">
+        <table id="corpus-table"><caption class="sr-only">Примеры перфектных конструкций из Повести временных лет</caption><thead><tr><th scope="col" class="number-col">№</th><th scope="col" class="year-col">Год</th><th scope="col" data-edition="lavr">Лаврентьевская <span>Лавр · (Т)РА</span></th><th scope="col" data-edition="ipat">Ипатьевская <span>Ипат · ХП</span></th><th scope="col" class="annotation-col">Аннотация <span>Синтаксис · семантика</span></th><th scope="col" class="protograph-col">Протограф <span>По стемме</span></th></tr></thead><tbody id="rows"></tbody></table>
+      </div>
+      <p id="status" class="status" role="status" aria-live="polite">Загрузка примеров…</p>
+      <noscript><p class="error">Включите JavaScript, чтобы загрузить таблицу и пользоваться фильтрами.</p></noscript>
+      <details class="data-note"><summary>О данных и обозначениях</summary><p>Каждая строка соответствует одному примеру исходной таблицы. Основные чтения и варианты младших списков сохранены раздельно. «*» и пустые чтения воспроизводят источник. При выборе одной редакции показываются строки, содержащие её основное чтение или варианты.</p><p>EXIST — экзистенциальный контекст; PLUPERF — отменённый результат, неактуальное прошлое или нереализованная попытка; VERIF — верификация; FALS — фальсификация; EVID — эвиденциальный контекст.</p><p>Пустая семантическая ячейка обозначена «Не указана». В описании источника семантика Перфекта I не указывается; отсутствие метки само по себе не означает, что требуется новая аннотация. Другие типы подлежащего (QP, AP, wh) остаются видимыми при выборе «Все». Смешанные и сомнительные пометы сохранены в синтаксисе; при явном указании редакции фильтр подлежащего учитывает это указание.</p><p>Преамбула не датирована и включается отдельным переключателем независимо от диапазона лет. Варианты написания «Перфект Ia / Iа» и пробелы унифицированы только в списке выбора протографа; исходное чтение остаётся в таблице.</p></details>
+    </section>
+  </main>
+  <footer><span>Повесть временных лет · Демонстрационная база</span><span>Золотые иконки — <a href="https://pngtree.com/" target="_blank" rel="noopener noreferrer">pngtree.com</a>. Авторские права принадлежат pngtree.com.</span></footer>
+</body>
+</html>
