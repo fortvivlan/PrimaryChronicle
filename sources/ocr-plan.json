@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "page_numbering": "One-based physical PDF/DjVu page or image-manifest position, never printed page or manuscript folio",
+  "output_policy": "Unreviewed OCR only; not eligible for linguistic analysis. Main text and apparatus require region review before corpus import.",
+  "jobs": [
+    {
+      "id": "pchela-1893",
+      "source_id": "pchela",
+      "kind": "images",
+      "file_manifest": "sources/pchela-pages.json",
+      "status": "ready_for_draft_ocr",
+      "pages": "1-520",
+      "languages": "orus+grc",
+      "sections": [{"first": 75, "last": 518, "role": "historical_text_greek_parallel_and_apparatus"}],
+      "notes": "Issue 4 including preliminaries, study and errata. Image 75 starts the parallel text; 518 ends it (printed 444). 519-520 are the closing leaf. Images 521-600 belong to another issue/binding and are excluded. Retain physical image IDs. Greek columns and footnotes remain in page layouts, not approved corpus text."
+    },
+    {
+      "id": "josephus-1958",
+      "source_id": "josephus",
+      "kind": "pdf",
+      "path": "josephus/meshchersky-1958.pdf",
+      "status": "ready_for_draft_ocr",
+      "languages": "orus+rus+grc",
+      "sections": [{"first": 172, "last": 476, "role": "historical_text_and_apparatus_candidate"}],
+      "notes": "OCR the whole 593-page edition; preserve the existing OCR layer separately. Text begins at file page 172 (printed 167), ends at file page 476 (printed 467). Pagination offsets change within the scan. Study, variants, Greek readings, translations and corrections are not interchangeable with the base text."
+    },
+    {
+      "id": "kirik-2011",
+      "source_id": "kirik",
+      "kind": "pdf",
+      "path": "kirik/milkov-simonov-2011.pdf",
+      "status": "ready_for_draft_ocr",
+      "languages": "orus+rus",
+      "sections": [
+        {"first": 312, "last": 334, "role": "historical_text_and_apparatus_candidate"},
+        {"first": 335, "last": 341, "role": "manuscript_facsimile_requires_htr"},
+        {"first": 358, "last": 412, "role": "historical_text_and_apparatus_candidate"},
+        {"first": 474, "last": 534, "role": "historical_text_and_apparatus_candidate"}
+      ],
+      "notes": "544-page edition with legacy Church Slavonic font codes. Save extracted embedded text as evidence alongside fresh OCR. Civil-font models cannot reproduce all Church Slavonic characters, titla or superscripts; historical text needs specialized recognition/font decoding and correction. Facsimile pages 335-341 remain HTR work even when page OCR exists."
+    },
+    {
+      "id": "kirik-rib6",
+      "source_id": "kirik",
+      "kind": "zip_djvu",
+      "path": "kirik/rib6.zip",
+      "status": "ready_for_draft_ocr",
+      "languages": "orus+grc",
+      "notes": "682-page control edition. Extract exactly one DjVu into data/ocr/inputs, preserving ZIP and recording member and hashes. Full-volume OCR is an auxiliary edition: establish bibliographic details and text boundaries before reuse."
+    },
+    {
+      "id": "andrew-egor162",
+      "source_id": "andrew_fool",
+      "kind": "images",
+      "file_manifest": "sources/andrew-pages.json",
+      "status": "requires_manuscript_htr",
+      "notes": "136 photographs (0211-0346); damaged fifteenth-century handwriting. Printed-text Tesseract models are not suitable. Requires manuscript line segmentation, a validated historical Cyrillic HTR model and transcription review. No printed OCR output is presented as a manuscript transcription."
+    }
+  ]
+}

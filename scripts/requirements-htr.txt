@@ -1,0 +1,3 @@
+# Python 3.10–3.13. Reuse CUDA torch or install CPU torch first; see sources/OCR.md.
+kraken==7.1.1
+PyMuPDF==1.26.7

@@ -1,0 +1,7185 @@
+{
+  "schema_version": 1,
+  "policy": "All automatic extraction remains unreviewed. Review and segmentation are separate from linguistic annotation.",
+  "normalization": "UTF-8, LF, NFC; NBSP→space; source-scoped Ђ→ѣ only. No NFKC, spelling modernization or guessed PUA conversion.",
+  "record_count": 1779,
+  "inventory": [
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/index.htm",
+      "role": "edition_index",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 18378
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr01.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 130086
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr02.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 88429
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr03.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 104754
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr04.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 147422
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr05.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 116635
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr06.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 100588
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr07.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 64316
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr08.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 90934
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr09.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 110943
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr10.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 63685
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr11.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 102554
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr13.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 88679
+    },
+    {
+      "source_id": "pvl_laurentian",
+      "path": "data/texts/lavrlet/lavr14.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 54217
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/index.htm",
+      "role": "edition_index",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 20449
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat01.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 95013
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat02.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 68977
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat03.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 97691
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat04.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 144855
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat05.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 103751
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat06.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 113948
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat07.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 69886
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat08.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 95058
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat09.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 116534
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat10.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 61861
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat11.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 175755
+    },
+    {
+      "source_id": "pvl_hypatian",
+      "path": "data/texts/ipatlet/ipat12.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 152871
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat13.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 74370
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat14.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 119531
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat15.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 154712
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat16.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 106365
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat17.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 157910
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat18.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 124274
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat19.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 91126
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat20.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 83985
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat21.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 153256
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat22.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 84012
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat23.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 115207
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat24.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 89637
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat25.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 116611
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat26.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 86959
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat27.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 138572
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat28.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 98324
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat29.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 96448
+    },
+    {
+      "source_id": "kiev_chronicle",
+      "path": "data/texts/ipatlet/ipat30.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 101047
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr15.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 85442
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr16.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 87633
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr17.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 89971
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr18.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 45011
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr19.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 52579
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr20.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 70442
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr21.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 52285
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr22.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 87533
+    },
+    {
+      "source_id": "suzdal_chronicle",
+      "path": "data/texts/lavrlet/lavr23.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 88560
+    },
+    {
+      "source_id": "novgorod_first_older",
+      "path": "data/texts/novglet/index.htm",
+      "role": "edition_index",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 18578
+    },
+    {
+      "source_id": "novgorod_first_older",
+      "path": "data/texts/novglet/novg01.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 55177
+    },
+    {
+      "source_id": "novgorod_first_older",
+      "path": "data/texts/novglet/novg02.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 50811
+    },
+    {
+      "source_id": "novgorod_first_older",
+      "path": "data/texts/novglet/novg03.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 42584
+    },
+    {
+      "source_id": "novgorod_first_older",
+      "path": "data/texts/novglet/novg04.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 23564
+    },
+    {
+      "source_id": "monomakh",
+      "path": "data/texts/monomakh/lavr12.htm",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 73918
+    },
+    {
+      "source_id": "daniel",
+      "path": "data/texts/daniel/bldr4-1.html",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 606611
+    },
+    {
+      "source_id": "kirik",
+      "path": "data/texts/kirik/rib6.zip",
+      "role": "scan_archive",
+      "disposition": "scan_recognition_review",
+      "exists": true,
+      "bytes": 47918840
+    },
+    {
+      "source_id": "kirik",
+      "path": "data/texts/kirik/rib6.html",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 2913232
+    },
+    {
+      "source_id": "kirik",
+      "path": "data/texts/kirik/questions-translation.html",
+      "role": "modern_translation",
+      "disposition": "excluded_modern_translation",
+      "exists": true,
+      "bytes": 315085
+    },
+    {
+      "source_id": "kirik",
+      "path": "data/texts/kirik/numbers-translation.html",
+      "role": "modern_translation",
+      "disposition": "excluded_modern_translation",
+      "exists": true,
+      "bytes": 97782
+    },
+    {
+      "source_id": "kirik",
+      "path": "data/texts/kirik/milkov-simonov-2011.pdf",
+      "role": "edition_with_texts",
+      "disposition": "scan_recognition_review",
+      "exists": true,
+      "bytes": 103087355
+    },
+    {
+      "source_id": "ilya_ioann",
+      "path": "data/texts/ilya_ioann/pavlov-1890.html",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 179332
+    },
+    {
+      "source_id": "antony",
+      "path": "data/texts/antony/text.html",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 78508
+    },
+    {
+      "source_id": "antony",
+      "path": "data/texts/antony/preface.html",
+      "role": "edition_preface",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 23733
+    },
+    {
+      "source_id": "antony",
+      "path": "data/texts/antony/primtext.phtml",
+      "role": "edition_notes",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 163235
+    },
+    {
+      "source_id": "josephus",
+      "path": "data/texts/josephus/edition.html",
+      "role": "edition_description",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 54891
+    },
+    {
+      "source_id": "josephus",
+      "path": "data/texts/josephus/meshchersky-1958.pdf",
+      "role": "text",
+      "disposition": "scan_recognition_review",
+      "exists": true,
+      "bytes": 75066705
+    },
+    {
+      "source_id": "josephus",
+      "path": "data/texts/josephus/history-catalog.html",
+      "role": "edition_description",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 16877
+    },
+    {
+      "source_id": "andrew_fool",
+      "path": "data/texts/andrew_fool/bldr2-13.html",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 224511
+    },
+    {
+      "source_id": "andrew_fool",
+      "path": "data/texts/andrew_fool/egor162-catalog.html",
+      "role": "manuscript_description",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 13596
+    },
+    {
+      "source_id": "andrew_fool",
+      "path": "data/texts/andrew_fool/egor162-pages.html",
+      "role": "image_manifest",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 253633
+    },
+    {
+      "source_id": "nicholas_miracles",
+      "path": "data/texts/nicholas_miracles/manuscript-excerpt.html",
+      "role": "text",
+      "disposition": "encoding_blocked",
+      "exists": true,
+      "bytes": 160861
+    },
+    {
+      "source_id": "nicholas_miracles",
+      "path": "data/texts/nicholas_miracles/bldr2-9.html",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 222269
+    },
+    {
+      "source_id": "pchela",
+      "path": "data/texts/pchela/manuscript-excerpt.html",
+      "role": "text",
+      "disposition": "encoding_blocked",
+      "exists": true,
+      "bytes": 89598
+    },
+    {
+      "source_id": "pchela",
+      "path": "data/texts/pchela/prlib-catalog.html",
+      "role": "edition_description",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 62395
+    },
+    {
+      "source_id": "pchela",
+      "path": "data/texts/pchela/prlib-images.json",
+      "role": "image_manifest",
+      "disposition": "context_only",
+      "exists": true,
+      "bytes": 128881
+    },
+    {
+      "source_id": "akir",
+      "path": "data/texts/akir/bldr3-2.html",
+      "role": "text",
+      "disposition": "original_text_candidate",
+      "exists": true,
+      "bytes": 230742
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0211.jpg",
+      "bytes": 22378555,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0212.jpg",
+      "bytes": 22375439,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0213.jpg",
+      "bytes": 20764661,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0214.jpg",
+      "bytes": 22137798,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0215.jpg",
+      "bytes": 21811985,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0216.jpg",
+      "bytes": 21874871,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0217.jpg",
+      "bytes": 22525010,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0218.jpg",
+      "bytes": 22297502,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0219.jpg",
+      "bytes": 21818748,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0220.jpg",
+      "bytes": 22499686,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0221.jpg",
+      "bytes": 22284720,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0222.jpg",
+      "bytes": 22565220,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0223.jpg",
+      "bytes": 22352326,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0224.jpg",
+      "bytes": 22318166,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0225.jpg",
+      "bytes": 22466741,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0226.jpg",
+      "bytes": 22291277,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0227.jpg",
+      "bytes": 22208227,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0228.jpg",
+      "bytes": 22310827,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0229.jpg",
+      "bytes": 22015016,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0230.jpg",
+      "bytes": 22334961,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0231.jpg",
+      "bytes": 21128434,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0232.jpg",
+      "bytes": 21740751,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0233.jpg",
+      "bytes": 21647479,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0234.jpg",
+      "bytes": 21877234,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0235.jpg",
+      "bytes": 21960965,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0236.jpg",
+      "bytes": 21955847,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0237.jpg",
+      "bytes": 21862928,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0238.jpg",
+      "bytes": 21160041,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0239.jpg",
+      "bytes": 21790157,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0240.jpg",
+      "bytes": 21958046,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0241.jpg",
+      "bytes": 22265667,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0242.jpg",
+      "bytes": 22608817,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0243.jpg",
+      "bytes": 21903180,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0244.jpg",
+      "bytes": 22401914,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0245.jpg",
+      "bytes": 22056576,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0246.jpg",
+      "bytes": 21793133,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0247.jpg",
+      "bytes": 22116730,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0248.jpg",
+      "bytes": 22222080,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0249.jpg",
+      "bytes": 22219800,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0250.jpg",
+      "bytes": 21263919,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0251.jpg",
+      "bytes": 21922947,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0252.jpg",
+      "bytes": 21971731,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0253.jpg",
+      "bytes": 21797293,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0254.jpg",
+      "bytes": 21322691,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0255.jpg",
+      "bytes": 22238398,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0256.jpg",
+      "bytes": 21568615,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0257.jpg",
+      "bytes": 21618349,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0258.jpg",
+      "bytes": 21938098,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0259.jpg",
+      "bytes": 22169635,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0260.jpg",
+      "bytes": 21739935,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0261.jpg",
+      "bytes": 22553310,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0262.jpg",
+      "bytes": 21173587,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0263.jpg",
+      "bytes": 22103515,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0264.jpg",
+      "bytes": 22022966,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0265.jpg",
+      "bytes": 21780505,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0266.jpg",
+      "bytes": 22558860,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0267.jpg",
+      "bytes": 20601514,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0268.jpg",
+      "bytes": 21081273,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0269.jpg",
+      "bytes": 20817211,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0270.jpg",
+      "bytes": 20738334,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0271.jpg",
+      "bytes": 22042479,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0272.jpg",
+      "bytes": 20765292,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0273.jpg",
+      "bytes": 20519301,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0274.jpg",
+      "bytes": 20256508,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0275.jpg",
+      "bytes": 22341450,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0276.jpg",
+      "bytes": 20761668,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0277.jpg",
+      "bytes": 20540964,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0278.jpg",
+      "bytes": 20433310,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0279.jpg",
+      "bytes": 20705106,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0280.jpg",
+      "bytes": 20429606,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0281.jpg",
+      "bytes": 20621239,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0282.jpg",
+      "bytes": 20586565,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0283.jpg",
+      "bytes": 20953870,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0284.jpg",
+      "bytes": 22265638,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0285.jpg",
+      "bytes": 20844365,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0286.jpg",
+      "bytes": 20446909,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0287.jpg",
+      "bytes": 20517923,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0288.jpg",
+      "bytes": 20105123,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0289.jpg",
+      "bytes": 22057141,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0290.jpg",
+      "bytes": 20383800,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0291.jpg",
+      "bytes": 20438364,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0292.jpg",
+      "bytes": 22332678,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0293.jpg",
+      "bytes": 20872742,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0294.jpg",
+      "bytes": 20859873,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0295.jpg",
+      "bytes": 20801429,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0296.jpg",
+      "bytes": 20562664,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0297.jpg",
+      "bytes": 20295424,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0298.jpg",
+      "bytes": 20798265,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0299.jpg",
+      "bytes": 20561247,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0300.jpg",
+      "bytes": 20408649,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0301.jpg",
+      "bytes": 20874435,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0302.jpg",
+      "bytes": 20921366,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0303.jpg",
+      "bytes": 20764697,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0304.jpg",
+      "bytes": 20706605,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0305.jpg",
+      "bytes": 20523130,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0306.jpg",
+      "bytes": 21027979,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0307.jpg",
+      "bytes": 21122294,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0308.jpg",
+      "bytes": 20994139,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0309.jpg",
+      "bytes": 20221095,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0310.jpg",
+      "bytes": 22388721,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0311.jpg",
+      "bytes": 20442211,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0312.jpg",
+      "bytes": 20260943,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0313.jpg",
+      "bytes": 22458103,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0314.jpg",
+      "bytes": 22242441,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0315.jpg",
+      "bytes": 20505819,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0316.jpg",
+      "bytes": 20470236,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0317.jpg",
+      "bytes": 20732492,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0318.jpg",
+      "bytes": 20444969,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0319.jpg",
+      "bytes": 22458108,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0320.jpg",
+      "bytes": 22236031,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0321.jpg",
+      "bytes": 20294067,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0322.jpg",
+      "bytes": 22574463,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0323.jpg",
+      "bytes": 22498134,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0324.jpg",
+      "bytes": 20821118,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0325.jpg",
+      "bytes": 20437542,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0326.jpg",
+      "bytes": 20905214,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0327.jpg",
+      "bytes": 20648735,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0328.jpg",
+      "bytes": 20890353,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0329.jpg",
+      "bytes": 22361388,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0330.jpg",
+      "bytes": 22047459,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0331.jpg",
+      "bytes": 20411965,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0332.jpg",
+      "bytes": 22464155,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0333.jpg",
+      "bytes": 20223252,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0334.jpg",
+      "bytes": 22281628,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0335.jpg",
+      "bytes": 22289745,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0336.jpg",
+      "bytes": 20760430,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0337.jpg",
+      "bytes": 20845894,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0338.jpg",
+      "bytes": 22113914,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0339.jpg",
+      "bytes": 22463695,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0340.jpg",
+      "bytes": 20322247,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0341.jpg",
+      "bytes": 21118574,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0342.jpg",
+      "bytes": 21031808,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0343.jpg",
+      "bytes": 21785665,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0344.jpg",
+      "bytes": 20172476,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0345.jpg",
+      "bytes": 20556493,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/andrew_fool/egor162/0346.jpg",
+      "bytes": 20448145,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/css/mns.css",
+      "bytes": 3225,
+      "disposition": "support_or_context",
+      "exists": true
+    },
+    {
+      "path": "data/texts/fonts/menaion.ttf",
+      "bytes": 801864,
+      "disposition": "support_or_context",
+      "exists": true
+    },
+    {
+      "path": "data/texts/ipatlet/ipat.css",
+      "bytes": 2671,
+      "disposition": "support_or_context",
+      "exists": true
+    },
+    {
+      "path": "data/texts/lavrlet/lavr.css",
+      "bytes": 2668,
+      "disposition": "support_or_context",
+      "exists": true
+    },
+    {
+      "path": "data/texts/novglet/novg.css",
+      "bytes": 2439,
+      "disposition": "support_or_context",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0001.jpg",
+      "bytes": 1516100,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0002.jpg",
+      "bytes": 1081016,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0003.jpg",
+      "bytes": 761169,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0004.jpg",
+      "bytes": 599881,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0005.jpg",
+      "bytes": 765666,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0006.jpg",
+      "bytes": 591372,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0007.jpg",
+      "bytes": 714524,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0008.jpg",
+      "bytes": 591555,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0009.jpg",
+      "bytes": 917672,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0010.jpg",
+      "bytes": 658527,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0011.jpg",
+      "bytes": 852382,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0012.jpg",
+      "bytes": 934481,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0013.jpg",
+      "bytes": 979766,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0014.jpg",
+      "bytes": 923531,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0015.jpg",
+      "bytes": 959978,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0016.jpg",
+      "bytes": 908680,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0017.jpg",
+      "bytes": 982383,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0018.jpg",
+      "bytes": 934829,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0019.jpg",
+      "bytes": 960494,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0020.jpg",
+      "bytes": 941088,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0021.jpg",
+      "bytes": 965831,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0022.jpg",
+      "bytes": 910112,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0023.jpg",
+      "bytes": 974794,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0024.jpg",
+      "bytes": 984450,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0025.jpg",
+      "bytes": 952672,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0026.jpg",
+      "bytes": 945958,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0027.jpg",
+      "bytes": 972122,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0028.jpg",
+      "bytes": 950148,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0029.jpg",
+      "bytes": 939140,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0030.jpg",
+      "bytes": 1002481,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0031.jpg",
+      "bytes": 1030324,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0032.jpg",
+      "bytes": 901992,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0033.jpg",
+      "bytes": 988884,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0034.jpg",
+      "bytes": 932167,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0035.jpg",
+      "bytes": 981669,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0036.jpg",
+      "bytes": 938842,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0037.jpg",
+      "bytes": 957902,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0038.jpg",
+      "bytes": 960057,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0039.jpg",
+      "bytes": 945890,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0040.jpg",
+      "bytes": 945202,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0041.jpg",
+      "bytes": 999070,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0042.jpg",
+      "bytes": 947864,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0043.jpg",
+      "bytes": 978212,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0044.jpg",
+      "bytes": 962278,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0045.jpg",
+      "bytes": 988802,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0046.jpg",
+      "bytes": 911426,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0047.jpg",
+      "bytes": 965406,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0048.jpg",
+      "bytes": 946575,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0049.jpg",
+      "bytes": 1027749,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0050.jpg",
+      "bytes": 948555,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0051.jpg",
+      "bytes": 976881,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0052.jpg",
+      "bytes": 1039009,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0053.jpg",
+      "bytes": 927517,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0054.jpg",
+      "bytes": 930527,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0055.jpg",
+      "bytes": 971727,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0056.jpg",
+      "bytes": 924726,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0057.jpg",
+      "bytes": 991553,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0058.jpg",
+      "bytes": 934470,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0059.jpg",
+      "bytes": 977738,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0060.jpg",
+      "bytes": 927215,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0061.jpg",
+      "bytes": 986898,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0062.jpg",
+      "bytes": 936015,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0063.jpg",
+      "bytes": 731116,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0064.jpg",
+      "bytes": 554412,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0065.jpg",
+      "bytes": 741896,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0066.jpg",
+      "bytes": 720555,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0067.jpg",
+      "bytes": 793478,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0068.jpg",
+      "bytes": 751719,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0069.jpg",
+      "bytes": 855085,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0070.jpg",
+      "bytes": 800497,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0071.jpg",
+      "bytes": 812246,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0072.jpg",
+      "bytes": 768371,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0073.jpg",
+      "bytes": 813754,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0074.jpg",
+      "bytes": 728112,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0075.jpg",
+      "bytes": 833540,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0076.jpg",
+      "bytes": 886935,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0077.jpg",
+      "bytes": 933418,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0078.jpg",
+      "bytes": 906885,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0079.jpg",
+      "bytes": 929424,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0080.jpg",
+      "bytes": 896636,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0081.jpg",
+      "bytes": 971965,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0082.jpg",
+      "bytes": 878138,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0083.jpg",
+      "bytes": 934181,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0084.jpg",
+      "bytes": 910573,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0085.jpg",
+      "bytes": 961663,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0086.jpg",
+      "bytes": 885628,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0087.jpg",
+      "bytes": 947006,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0088.jpg",
+      "bytes": 876310,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0089.jpg",
+      "bytes": 938143,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0090.jpg",
+      "bytes": 895358,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0091.jpg",
+      "bytes": 958740,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0092.jpg",
+      "bytes": 921020,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0093.jpg",
+      "bytes": 968395,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0094.jpg",
+      "bytes": 906470,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0095.jpg",
+      "bytes": 949178,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0096.jpg",
+      "bytes": 905072,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0097.jpg",
+      "bytes": 958778,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0098.jpg",
+      "bytes": 900846,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0099.jpg",
+      "bytes": 972439,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0100.jpg",
+      "bytes": 930527,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0101.jpg",
+      "bytes": 968958,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0102.jpg",
+      "bytes": 938281,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0103.jpg",
+      "bytes": 967069,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0104.jpg",
+      "bytes": 908009,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0105.jpg",
+      "bytes": 954755,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0106.jpg",
+      "bytes": 920449,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0107.jpg",
+      "bytes": 953648,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0108.jpg",
+      "bytes": 907265,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0109.jpg",
+      "bytes": 960778,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0110.jpg",
+      "bytes": 894720,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0111.jpg",
+      "bytes": 981479,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0112.jpg",
+      "bytes": 919491,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0113.jpg",
+      "bytes": 956926,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0114.jpg",
+      "bytes": 938592,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0115.jpg",
+      "bytes": 975251,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0116.jpg",
+      "bytes": 918754,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0117.jpg",
+      "bytes": 972061,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0118.jpg",
+      "bytes": 929181,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0119.jpg",
+      "bytes": 965587,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0120.jpg",
+      "bytes": 950322,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0121.jpg",
+      "bytes": 940641,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0122.jpg",
+      "bytes": 907685,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0123.jpg",
+      "bytes": 947294,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0124.jpg",
+      "bytes": 899688,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0125.jpg",
+      "bytes": 919621,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0126.jpg",
+      "bytes": 861301,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0127.jpg",
+      "bytes": 931152,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0128.jpg",
+      "bytes": 884082,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0129.jpg",
+      "bytes": 934001,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0130.jpg",
+      "bytes": 867199,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0131.jpg",
+      "bytes": 943609,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0132.jpg",
+      "bytes": 902219,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0133.jpg",
+      "bytes": 1003286,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0134.jpg",
+      "bytes": 842526,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0135.jpg",
+      "bytes": 911433,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0136.jpg",
+      "bytes": 879226,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0137.jpg",
+      "bytes": 937309,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0138.jpg",
+      "bytes": 858886,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0139.jpg",
+      "bytes": 944292,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0140.jpg",
+      "bytes": 876277,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0141.jpg",
+      "bytes": 940506,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0142.jpg",
+      "bytes": 879919,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0143.jpg",
+      "bytes": 941364,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0144.jpg",
+      "bytes": 880193,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0145.jpg",
+      "bytes": 952280,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0146.jpg",
+      "bytes": 879911,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0147.jpg",
+      "bytes": 935253,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0148.jpg",
+      "bytes": 873240,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0149.jpg",
+      "bytes": 953493,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0150.jpg",
+      "bytes": 875956,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0151.jpg",
+      "bytes": 946069,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0152.jpg",
+      "bytes": 881098,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0153.jpg",
+      "bytes": 989148,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0154.jpg",
+      "bytes": 845929,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0155.jpg",
+      "bytes": 971280,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0156.jpg",
+      "bytes": 880605,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0157.jpg",
+      "bytes": 909490,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0158.jpg",
+      "bytes": 862386,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0159.jpg",
+      "bytes": 916365,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0160.jpg",
+      "bytes": 821445,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0161.jpg",
+      "bytes": 922588,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0162.jpg",
+      "bytes": 886658,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0163.jpg",
+      "bytes": 925992,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0164.jpg",
+      "bytes": 855663,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0165.jpg",
+      "bytes": 929533,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0166.jpg",
+      "bytes": 894468,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0167.jpg",
+      "bytes": 943847,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0168.jpg",
+      "bytes": 879199,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0169.jpg",
+      "bytes": 929714,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0170.jpg",
+      "bytes": 901946,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0171.jpg",
+      "bytes": 959796,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0172.jpg",
+      "bytes": 882671,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0173.jpg",
+      "bytes": 944981,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0174.jpg",
+      "bytes": 890898,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0175.jpg",
+      "bytes": 979044,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0176.jpg",
+      "bytes": 878808,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0177.jpg",
+      "bytes": 951053,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0178.jpg",
+      "bytes": 886713,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0179.jpg",
+      "bytes": 964709,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0180.jpg",
+      "bytes": 886282,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0181.jpg",
+      "bytes": 956552,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0182.jpg",
+      "bytes": 902038,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0183.jpg",
+      "bytes": 948620,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0184.jpg",
+      "bytes": 882337,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0185.jpg",
+      "bytes": 954988,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0186.jpg",
+      "bytes": 852775,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0187.jpg",
+      "bytes": 936146,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0188.jpg",
+      "bytes": 874807,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0189.jpg",
+      "bytes": 965706,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0190.jpg",
+      "bytes": 890074,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0191.jpg",
+      "bytes": 942932,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0192.jpg",
+      "bytes": 863742,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0193.jpg",
+      "bytes": 972020,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0194.jpg",
+      "bytes": 877055,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0195.jpg",
+      "bytes": 935294,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0196.jpg",
+      "bytes": 868558,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0197.jpg",
+      "bytes": 941183,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0198.jpg",
+      "bytes": 873768,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0199.jpg",
+      "bytes": 956613,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0200.jpg",
+      "bytes": 842541,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0201.jpg",
+      "bytes": 948830,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0202.jpg",
+      "bytes": 851535,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0203.jpg",
+      "bytes": 936240,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0204.jpg",
+      "bytes": 910347,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0205.jpg",
+      "bytes": 1001280,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0206.jpg",
+      "bytes": 853777,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0207.jpg",
+      "bytes": 948780,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0208.jpg",
+      "bytes": 908322,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0209.jpg",
+      "bytes": 983621,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0210.jpg",
+      "bytes": 874867,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0211.jpg",
+      "bytes": 907303,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0212.jpg",
+      "bytes": 918982,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0213.jpg",
+      "bytes": 942765,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0214.jpg",
+      "bytes": 872347,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0215.jpg",
+      "bytes": 942109,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0216.jpg",
+      "bytes": 938101,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0217.jpg",
+      "bytes": 996174,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0218.jpg",
+      "bytes": 856129,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0219.jpg",
+      "bytes": 1013470,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0220.jpg",
+      "bytes": 927326,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0221.jpg",
+      "bytes": 986290,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0222.jpg",
+      "bytes": 915469,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0223.jpg",
+      "bytes": 1026538,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0224.jpg",
+      "bytes": 912900,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0225.jpg",
+      "bytes": 1006401,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0226.jpg",
+      "bytes": 944051,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0227.jpg",
+      "bytes": 1014592,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0228.jpg",
+      "bytes": 886984,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0229.jpg",
+      "bytes": 955230,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0230.jpg",
+      "bytes": 941719,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0231.jpg",
+      "bytes": 1015283,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0232.jpg",
+      "bytes": 928782,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0233.jpg",
+      "bytes": 991496,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0234.jpg",
+      "bytes": 926142,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0235.jpg",
+      "bytes": 1035027,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0236.jpg",
+      "bytes": 910065,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0237.jpg",
+      "bytes": 1014888,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0238.jpg",
+      "bytes": 925238,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0239.jpg",
+      "bytes": 1017248,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0240.jpg",
+      "bytes": 936099,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0241.jpg",
+      "bytes": 994288,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0242.jpg",
+      "bytes": 915400,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0243.jpg",
+      "bytes": 1027146,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0244.jpg",
+      "bytes": 914655,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0245.jpg",
+      "bytes": 955179,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0246.jpg",
+      "bytes": 938564,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0247.jpg",
+      "bytes": 996454,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0248.jpg",
+      "bytes": 902543,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0249.jpg",
+      "bytes": 1010333,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0250.jpg",
+      "bytes": 910968,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0251.jpg",
+      "bytes": 965253,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0252.jpg",
+      "bytes": 928348,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0253.jpg",
+      "bytes": 1023531,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0254.jpg",
+      "bytes": 921832,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0255.jpg",
+      "bytes": 956353,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0256.jpg",
+      "bytes": 940779,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0257.jpg",
+      "bytes": 1017703,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0258.jpg",
+      "bytes": 929618,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0259.jpg",
+      "bytes": 1008996,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0260.jpg",
+      "bytes": 938338,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0261.jpg",
+      "bytes": 982984,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0262.jpg",
+      "bytes": 877546,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0263.jpg",
+      "bytes": 985174,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0264.jpg",
+      "bytes": 922808,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0265.jpg",
+      "bytes": 1023401,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0266.jpg",
+      "bytes": 933167,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0267.jpg",
+      "bytes": 986872,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0268.jpg",
+      "bytes": 898953,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0269.jpg",
+      "bytes": 1002969,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0270.jpg",
+      "bytes": 895831,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0271.jpg",
+      "bytes": 994807,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0272.jpg",
+      "bytes": 828208,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0273.jpg",
+      "bytes": 963489,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0274.jpg",
+      "bytes": 891405,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0275.jpg",
+      "bytes": 968627,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0276.jpg",
+      "bytes": 898395,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0277.jpg",
+      "bytes": 988928,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0278.jpg",
+      "bytes": 874779,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0279.jpg",
+      "bytes": 989648,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0280.jpg",
+      "bytes": 888880,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0281.jpg",
+      "bytes": 988305,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0282.jpg",
+      "bytes": 884086,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0283.jpg",
+      "bytes": 1003807,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0284.jpg",
+      "bytes": 936973,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0285.jpg",
+      "bytes": 967949,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0286.jpg",
+      "bytes": 868198,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0287.jpg",
+      "bytes": 971742,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0288.jpg",
+      "bytes": 865669,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0289.jpg",
+      "bytes": 946395,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0290.jpg",
+      "bytes": 919699,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0291.jpg",
+      "bytes": 1005971,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0292.jpg",
+      "bytes": 896033,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0293.jpg",
+      "bytes": 970117,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0294.jpg",
+      "bytes": 869178,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0295.jpg",
+      "bytes": 989352,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0296.jpg",
+      "bytes": 840513,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0297.jpg",
+      "bytes": 949056,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0298.jpg",
+      "bytes": 884801,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0299.jpg",
+      "bytes": 967106,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0300.jpg",
+      "bytes": 885917,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0301.jpg",
+      "bytes": 959397,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0302.jpg",
+      "bytes": 875217,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0303.jpg",
+      "bytes": 965142,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0304.jpg",
+      "bytes": 898154,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0305.jpg",
+      "bytes": 1018550,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0306.jpg",
+      "bytes": 918936,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0307.jpg",
+      "bytes": 1018844,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0308.jpg",
+      "bytes": 911520,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0309.jpg",
+      "bytes": 1029799,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0310.jpg",
+      "bytes": 931872,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0311.jpg",
+      "bytes": 981789,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0312.jpg",
+      "bytes": 941525,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0313.jpg",
+      "bytes": 1027302,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0314.jpg",
+      "bytes": 900974,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0315.jpg",
+      "bytes": 1043597,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0316.jpg",
+      "bytes": 923493,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0317.jpg",
+      "bytes": 987271,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0318.jpg",
+      "bytes": 903491,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0319.jpg",
+      "bytes": 1000747,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0320.jpg",
+      "bytes": 903514,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0321.jpg",
+      "bytes": 1042313,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0322.jpg",
+      "bytes": 938759,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0323.jpg",
+      "bytes": 1001670,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0324.jpg",
+      "bytes": 916090,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0325.jpg",
+      "bytes": 979024,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0326.jpg",
+      "bytes": 905068,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0327.jpg",
+      "bytes": 977560,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0328.jpg",
+      "bytes": 915820,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0329.jpg",
+      "bytes": 984394,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0330.jpg",
+      "bytes": 906787,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0331.jpg",
+      "bytes": 1019463,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0332.jpg",
+      "bytes": 908427,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0333.jpg",
+      "bytes": 981160,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0334.jpg",
+      "bytes": 927214,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0335.jpg",
+      "bytes": 1010687,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0336.jpg",
+      "bytes": 896548,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0337.jpg",
+      "bytes": 1031972,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0338.jpg",
+      "bytes": 907356,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0339.jpg",
+      "bytes": 978901,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0340.jpg",
+      "bytes": 882897,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0341.jpg",
+      "bytes": 1001333,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0342.jpg",
+      "bytes": 882436,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0343.jpg",
+      "bytes": 1016469,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0344.jpg",
+      "bytes": 905727,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0345.jpg",
+      "bytes": 1025841,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0346.jpg",
+      "bytes": 903506,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0347.jpg",
+      "bytes": 994710,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0348.jpg",
+      "bytes": 932448,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0349.jpg",
+      "bytes": 1040296,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0350.jpg",
+      "bytes": 891256,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0351.jpg",
+      "bytes": 1071302,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0352.jpg",
+      "bytes": 982792,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0353.jpg",
+      "bytes": 1032352,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0354.jpg",
+      "bytes": 881412,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0355.jpg",
+      "bytes": 1005747,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0356.jpg",
+      "bytes": 946164,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0357.jpg",
+      "bytes": 1022652,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0358.jpg",
+      "bytes": 907531,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0359.jpg",
+      "bytes": 978485,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0360.jpg",
+      "bytes": 886348,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0361.jpg",
+      "bytes": 1026841,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0362.jpg",
+      "bytes": 860869,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0363.jpg",
+      "bytes": 994243,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0364.jpg",
+      "bytes": 886547,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0365.jpg",
+      "bytes": 1016788,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0366.jpg",
+      "bytes": 927126,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0367.jpg",
+      "bytes": 1013130,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0368.jpg",
+      "bytes": 884214,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0369.jpg",
+      "bytes": 889591,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0370.jpg",
+      "bytes": 848285,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0371.jpg",
+      "bytes": 954131,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0372.jpg",
+      "bytes": 885709,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0373.jpg",
+      "bytes": 990837,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0374.jpg",
+      "bytes": 894358,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0375.jpg",
+      "bytes": 969756,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0376.jpg",
+      "bytes": 891782,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0377.jpg",
+      "bytes": 1004916,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0378.jpg",
+      "bytes": 895096,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0379.jpg",
+      "bytes": 995960,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0380.jpg",
+      "bytes": 895368,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0381.jpg",
+      "bytes": 981335,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0382.jpg",
+      "bytes": 934518,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0383.jpg",
+      "bytes": 980094,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0384.jpg",
+      "bytes": 884727,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0385.jpg",
+      "bytes": 971160,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0386.jpg",
+      "bytes": 919184,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0387.jpg",
+      "bytes": 993338,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0388.jpg",
+      "bytes": 878625,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0389.jpg",
+      "bytes": 963327,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0390.jpg",
+      "bytes": 873087,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0391.jpg",
+      "bytes": 1016964,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0392.jpg",
+      "bytes": 898467,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0393.jpg",
+      "bytes": 960176,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0394.jpg",
+      "bytes": 886814,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0395.jpg",
+      "bytes": 1014476,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0396.jpg",
+      "bytes": 887569,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0397.jpg",
+      "bytes": 1014127,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0398.jpg",
+      "bytes": 868961,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0399.jpg",
+      "bytes": 1027670,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0400.jpg",
+      "bytes": 902978,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0401.jpg",
+      "bytes": 1017073,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0402.jpg",
+      "bytes": 918479,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0403.jpg",
+      "bytes": 946689,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0404.jpg",
+      "bytes": 928952,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0405.jpg",
+      "bytes": 1059373,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0406.jpg",
+      "bytes": 932122,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0407.jpg",
+      "bytes": 975489,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0408.jpg",
+      "bytes": 917679,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0409.jpg",
+      "bytes": 996327,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0410.jpg",
+      "bytes": 871315,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0411.jpg",
+      "bytes": 994141,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0412.jpg",
+      "bytes": 875200,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0413.jpg",
+      "bytes": 923519,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0414.jpg",
+      "bytes": 895036,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0415.jpg",
+      "bytes": 978755,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0416.jpg",
+      "bytes": 858885,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0417.jpg",
+      "bytes": 918611,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0418.jpg",
+      "bytes": 903683,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0419.jpg",
+      "bytes": 970523,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0420.jpg",
+      "bytes": 875932,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0421.jpg",
+      "bytes": 967552,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0422.jpg",
+      "bytes": 892392,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0423.jpg",
+      "bytes": 1034781,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0424.jpg",
+      "bytes": 889838,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0425.jpg",
+      "bytes": 943060,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0426.jpg",
+      "bytes": 859503,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0427.jpg",
+      "bytes": 1019319,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0428.jpg",
+      "bytes": 884625,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0429.jpg",
+      "bytes": 995865,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0430.jpg",
+      "bytes": 913134,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0431.jpg",
+      "bytes": 977604,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0432.jpg",
+      "bytes": 847554,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0433.jpg",
+      "bytes": 932301,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0434.jpg",
+      "bytes": 859928,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0435.jpg",
+      "bytes": 1031392,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0436.jpg",
+      "bytes": 861707,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0437.jpg",
+      "bytes": 992931,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0438.jpg",
+      "bytes": 888149,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0439.jpg",
+      "bytes": 987512,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0440.jpg",
+      "bytes": 893158,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0441.jpg",
+      "bytes": 977396,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0442.jpg",
+      "bytes": 883147,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0443.jpg",
+      "bytes": 995502,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0444.jpg",
+      "bytes": 902649,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0445.jpg",
+      "bytes": 966342,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0446.jpg",
+      "bytes": 872807,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0447.jpg",
+      "bytes": 970897,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0448.jpg",
+      "bytes": 894811,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0449.jpg",
+      "bytes": 965575,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0450.jpg",
+      "bytes": 899777,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0451.jpg",
+      "bytes": 989375,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0452.jpg",
+      "bytes": 887151,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0453.jpg",
+      "bytes": 1043030,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0454.jpg",
+      "bytes": 973598,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0455.jpg",
+      "bytes": 1040345,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0456.jpg",
+      "bytes": 876511,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0457.jpg",
+      "bytes": 991397,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0458.jpg",
+      "bytes": 934081,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0459.jpg",
+      "bytes": 1016016,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0460.jpg",
+      "bytes": 910779,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0461.jpg",
+      "bytes": 982120,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0462.jpg",
+      "bytes": 901613,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0463.jpg",
+      "bytes": 1038842,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0464.jpg",
+      "bytes": 916313,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0465.jpg",
+      "bytes": 974002,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0466.jpg",
+      "bytes": 925009,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0467.jpg",
+      "bytes": 1018967,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0468.jpg",
+      "bytes": 903112,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0469.jpg",
+      "bytes": 991867,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0470.jpg",
+      "bytes": 889657,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0471.jpg",
+      "bytes": 998037,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0472.jpg",
+      "bytes": 857147,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0473.jpg",
+      "bytes": 969277,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0474.jpg",
+      "bytes": 900728,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0475.jpg",
+      "bytes": 992852,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0476.jpg",
+      "bytes": 953080,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0477.jpg",
+      "bytes": 1053005,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0478.jpg",
+      "bytes": 944926,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0479.jpg",
+      "bytes": 959404,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0480.jpg",
+      "bytes": 914035,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0481.jpg",
+      "bytes": 990878,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0482.jpg",
+      "bytes": 889124,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0483.jpg",
+      "bytes": 963744,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0484.jpg",
+      "bytes": 908969,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0485.jpg",
+      "bytes": 1007170,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0486.jpg",
+      "bytes": 886558,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0487.jpg",
+      "bytes": 962582,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0488.jpg",
+      "bytes": 893442,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0489.jpg",
+      "bytes": 1002000,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0490.jpg",
+      "bytes": 863581,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0491.jpg",
+      "bytes": 983255,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0492.jpg",
+      "bytes": 917076,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0493.jpg",
+      "bytes": 1016275,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0494.jpg",
+      "bytes": 930339,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0495.jpg",
+      "bytes": 1042623,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0496.jpg",
+      "bytes": 881736,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0497.jpg",
+      "bytes": 1041147,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0498.jpg",
+      "bytes": 897536,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0499.jpg",
+      "bytes": 994974,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0500.jpg",
+      "bytes": 855885,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0501.jpg",
+      "bytes": 1008655,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0502.jpg",
+      "bytes": 906241,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0503.jpg",
+      "bytes": 985409,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0504.jpg",
+      "bytes": 883415,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0505.jpg",
+      "bytes": 988011,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0506.jpg",
+      "bytes": 899120,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0507.jpg",
+      "bytes": 1041966,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0508.jpg",
+      "bytes": 917859,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0509.jpg",
+      "bytes": 1039035,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0510.jpg",
+      "bytes": 898898,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0511.jpg",
+      "bytes": 995248,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0512.jpg",
+      "bytes": 916025,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0513.jpg",
+      "bytes": 1006377,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0514.jpg",
+      "bytes": 970548,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0515.jpg",
+      "bytes": 953508,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0516.jpg",
+      "bytes": 898868,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0517.jpg",
+      "bytes": 969229,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0518.jpg",
+      "bytes": 855334,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0519.jpg",
+      "bytes": 777890,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0520.jpg",
+      "bytes": 591912,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0521.jpg",
+      "bytes": 991130,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0522.jpg",
+      "bytes": 952202,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0523.jpg",
+      "bytes": 1056056,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0524.jpg",
+      "bytes": 887616,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0525.jpg",
+      "bytes": 936298,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0526.jpg",
+      "bytes": 606354,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0527.jpg",
+      "bytes": 649690,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0528.jpg",
+      "bytes": 798077,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0529.jpg",
+      "bytes": 933912,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0530.jpg",
+      "bytes": 906422,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0531.jpg",
+      "bytes": 1035289,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0532.jpg",
+      "bytes": 923903,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0533.jpg",
+      "bytes": 1056828,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0534.jpg",
+      "bytes": 894823,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0535.jpg",
+      "bytes": 965817,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0536.jpg",
+      "bytes": 884594,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0537.jpg",
+      "bytes": 969782,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0538.jpg",
+      "bytes": 866372,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0539.jpg",
+      "bytes": 987505,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0540.jpg",
+      "bytes": 947109,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0541.jpg",
+      "bytes": 1061901,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0542.jpg",
+      "bytes": 925462,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0543.jpg",
+      "bytes": 1112695,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0544.jpg",
+      "bytes": 992648,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0545.jpg",
+      "bytes": 1108721,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0546.jpg",
+      "bytes": 989128,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0547.jpg",
+      "bytes": 1122244,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0548.jpg",
+      "bytes": 949889,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0549.jpg",
+      "bytes": 1030841,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0550.jpg",
+      "bytes": 1008197,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0551.jpg",
+      "bytes": 1096924,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0552.jpg",
+      "bytes": 942252,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0553.jpg",
+      "bytes": 1084048,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0554.jpg",
+      "bytes": 999212,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0555.jpg",
+      "bytes": 1087579,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0556.jpg",
+      "bytes": 901340,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0557.jpg",
+      "bytes": 955347,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0558.jpg",
+      "bytes": 995495,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0559.jpg",
+      "bytes": 1110342,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0560.jpg",
+      "bytes": 965470,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0561.jpg",
+      "bytes": 1060168,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0562.jpg",
+      "bytes": 872760,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0563.jpg",
+      "bytes": 954800,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0564.jpg",
+      "bytes": 896150,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0565.jpg",
+      "bytes": 1008472,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0566.jpg",
+      "bytes": 950555,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0567.jpg",
+      "bytes": 1053290,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0568.jpg",
+      "bytes": 822196,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0569.jpg",
+      "bytes": 928603,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0570.jpg",
+      "bytes": 937072,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0571.jpg",
+      "bytes": 1050897,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0572.jpg",
+      "bytes": 888502,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0573.jpg",
+      "bytes": 1023463,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0574.jpg",
+      "bytes": 872546,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0575.jpg",
+      "bytes": 956455,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0576.jpg",
+      "bytes": 879237,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0577.jpg",
+      "bytes": 982079,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0578.jpg",
+      "bytes": 967538,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0579.jpg",
+      "bytes": 1071501,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0580.jpg",
+      "bytes": 878741,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0581.jpg",
+      "bytes": 953994,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0582.jpg",
+      "bytes": 860466,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0583.jpg",
+      "bytes": 935531,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0584.jpg",
+      "bytes": 895438,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0585.jpg",
+      "bytes": 991261,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0586.jpg",
+      "bytes": 912068,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0587.jpg",
+      "bytes": 995846,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0588.jpg",
+      "bytes": 898180,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0589.jpg",
+      "bytes": 974213,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0590.jpg",
+      "bytes": 939551,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0591.jpg",
+      "bytes": 966587,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0592.jpg",
+      "bytes": 883938,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0593.jpg",
+      "bytes": 941678,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0594.jpg",
+      "bytes": 544899,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0595.jpg",
+      "bytes": 708716,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0596.jpg",
+      "bytes": 605900,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0597.jpg",
+      "bytes": 730780,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0598.jpg",
+      "bytes": 655293,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0599.jpg",
+      "bytes": 1198908,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/pchela/scan/0600.jpg",
+      "bytes": 1466582,
+      "disposition": "scan_image",
+      "exists": true
+    },
+    {
+      "path": "data/texts/shryft/description.htm",
+      "bytes": 11702,
+      "disposition": "support_or_context",
+      "exists": true
+    },
+    {
+      "path": "data/texts/shryft/timeslit.ttf",
+      "bytes": 282496,
+      "disposition": "support_or_context",
+      "exists": true
+    },
+    {
+      "path": "data/texts/support/manuscripts.html",
+      "bytes": 14677,
+      "disposition": "support_or_context",
+      "exists": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "pvl_laurentian",
+      "title": "ПВЛ: Лаврентьевский список",
+      "edition": "ПСРЛ. Т. 1. Л., 1926–1928; список 1377 г.",
+      "catalog_coverage": "complete_online_text",
+      "notes": "ПВЛ до 1110 г.; вставка сочинений Мономаха хранится отдельно в monomakh/. Издание содержит разночтения других списков.",
+      "actions": [],
+      "records": 13,
+      "segmentation_counts": {
+        "original_text_candidate": 13
+      },
+      "flags": {
+        "legacy_glyphs_require_expert_mapping": 13,
+        "latin_characters_check_against_source": 13,
+        "superscript_position_in_evidence_html_only": 13
+      }
+    },
+    {
+      "id": "pvl_hypatian",
+      "title": "ПВЛ: Ипатьевский список",
+      "edition": "ПСРЛ. Т. 2. СПб., 1908",
+      "catalog_coverage": "complete_online_text",
+      "notes": "ПВЛ до 1117 г.; оригинальный текст, не современный перевод.",
+      "actions": [],
+      "records": 12,
+      "segmentation_counts": {
+        "original_text_candidate": 12
+      },
+      "flags": {
+        "legacy_glyphs_require_expert_mapping": 12,
+        "latin_characters_check_against_source": 12,
+        "superscript_position_in_evidence_html_only": 12
+      }
+    },
+    {
+      "id": "kiev_chronicle",
+      "title": "Киевская летопись",
+      "edition": "ПСРЛ. Т. 2. СПб., 1908; Ипатьевский список",
+      "catalog_coverage": "complete_online_text",
+      "notes": "Раздел Киевского свода по оглавлению источника: 1118–1200 гг. Датировка заключительных статей зависит от списка.",
+      "actions": [],
+      "records": 18,
+      "segmentation_counts": {
+        "original_text_candidate": 18
+      },
+      "flags": {
+        "legacy_glyphs_require_expert_mapping": 18,
+        "latin_characters_check_against_source": 18,
+        "superscript_position_in_evidence_html_only": 18
+      }
+    },
+    {
+      "id": "suzdal_chronicle",
+      "title": "Суздальская летопись, старая часть по 1205 г.",
+      "edition": "ПСРЛ. Т. 1. Л., 1926–1928; Лаврентьевский список",
+      "catalog_coverage": "complete_with_boundary_overrun",
+      "notes": "Раздел 1111–1205 гг. Сохранена целиком последняя HTML-страница lavr23.htm, включающая также начало 1206 г.; перед анализом требуется отсечение по году.",
+      "actions": [],
+      "records": 9,
+      "segmentation_counts": {
+        "original_text_candidate": 9
+      },
+      "flags": {
+        "legacy_glyphs_require_expert_mapping": 9,
+        "latin_characters_check_against_source": 9,
+        "superscript_position_in_evidence_html_only": 9
+      }
+    },
+    {
+      "id": "novgorod_first_older",
+      "title": "Новгородская первая летопись старшего извода по 1204 г.",
+      "edition": "Под ред. А. Н. Насонова. М.; Л., 1950; Синодальный список",
+      "catalog_coverage": "complete_online_text",
+      "notes": "Страницы novg01–04: сохранившийся текст с 1016 по 1204 г. включительно; младший извод не подставляется вместо утраченного начала.",
+      "actions": [],
+      "records": 4,
+      "segmentation_counts": {
+        "original_text_candidate": 4
+      },
+      "flags": {}
+    },
+    {
+      "id": "monomakh",
+      "title": "Владимир Мономах: сочинения в Лаврентьевской летописи",
+      "edition": "ПСРЛ. Т. 1. Л., 1926; Лаврентьевский список",
+      "catalog_coverage": "complete_online_text",
+      "notes": "Вставка «Поученье», автобиографическая часть, письмо Олегу; проверить границы заключительного молитвенного текста перед атрибуцией.",
+      "actions": [],
+      "records": 1,
+      "segmentation_counts": {
+        "original_text_candidate": 1
+      },
+      "flags": {
+        "legacy_glyphs_require_expert_mapping": 1,
+        "superscript_position_in_evidence_html_only": 1
+      }
+    },
+    {
+      "id": "daniel",
+      "title": "Даниил игумен: Хождение, первая редакция",
+      "edition": "БЛДР. Т. 4. СПб., 1997; подготовка Г. М. Прохорова; РНБ Q.XVII.88, 1495 г.",
+      "catalog_coverage": "complete_online_text",
+      "notes": "Введение прямо называет первую редакцию; восполнения по РГБ, Рум. 335, XV–XVI вв. HTML включает древнерусский текст, современный перевод и комментарии; их нужно разделить перед анализом.",
+      "actions": [],
+      "records": 1,
+      "segmentation_counts": {
+        "original_text_candidate": 1
+      },
+      "flags": {
+        "latin_characters_check_against_source": 1
+      }
+    },
+    {
+      "id": "kirik",
+      "title": "Кирик Новгородец: Вопрошание; Учение о числах",
+      "edition": "Мильков В. В., Симонов Р. А. Кирик Новгородец: ученый и мыслитель. М.: Кругъ, 2011. 544 с.; дополнительно скан РИБ, т. 6",
+      "catalog_coverage": "complete_editions_require_text_extraction",
+      "notes": "В PDF 2011 г.: Учение о числах по четырём спискам на с. 312–334, фотокопия ещё одного списка с. 335–341; Вопрошание: основная редакция по ГИМ Увар. 791 (XV в.) с разночтениями Син. 132 (XIII в.) и др. на с. 358–412, особая на с. 474–511, краткая на с. 512–524, комбинированная на с. 525–534. Устаревшая кодировка шрифтов делает текстовый слой непригодным без проверки. Скан РИБ в ZIP/DJVU сохраняется как дополнительный контрольный источник; его выходные данные ещё нужно сверить. HTML acathist упрощает орфографию; отдельные страницы Азбуки с пометой translation — современные переводы.",
+      "actions": [
+        "РИБ 6: 682 страницы — вспомогательная очередь. Выделить границы памятников; HTML содержит также другие канонические тексты, пока не извлечённые отдельно.",
+        "Вычитать OCR/HTR по изображениям, выделить основной текст, исключить аппарат и посторонние разделы; проверить пропущенные строки."
+      ],
+      "records": 829,
+      "segmentation_counts": {
+        "original_text_candidate": 1,
+        "mixed_page_requires_selection": 828
+      },
+      "flags": {
+        "latin_characters_check_against_source": 140,
+        "greek_characters_check_against_source": 718,
+        "recognition_requires_proofreading": 828,
+        "base_text_variants_and_boundaries_require_review": 828,
+        "private_use_encoding": 4,
+        "partial_segmentation": 7
+      }
+    },
+    {
+      "id": "ilya_ioann",
+      "title": "Илья — Иоанн Новгородский: Поучение",
+      "edition": "А. С. Павлов. Неизданный памятник русского церковного права XII века. 1890",
+      "catalog_coverage": "edition_review_required",
+      "notes": "Поучение в публикации Павлова 1890 г. по списку XV в.; текст и разночтения сохранены в HTML. Точность электронной передачи и специальные символы требуют сверки со сканом. Дополнительные канонические тексты и Ильино вопрошание находятся в kirik/rib6.html и издании Кирика 2011 г.; атрибуция отдельных частей не безусловна.",
+      "actions": [],
+      "records": 1,
+      "segmentation_counts": {
+        "original_text_candidate": 1
+      },
+      "flags": {
+        "latin_characters_check_against_source": 1
+      }
+    },
+    {
+      "id": "antony",
+      "title": "Антоний, архиепископ Новгородский: Книга Паломник",
+      "edition": "Путешествие Новгородского архиепископа Антония в Царьград в конце XII столетия. Под ред. П. И. Савваитова. СПб., 1872",
+      "catalog_coverage": "complete_online_text",
+      "notes": "Древнерусский текст по публикации Савваитова 1872 г., Восточная литература (2004). Библиографическая ссылка подтверждена внизу страницы; примечания вынесены в отдельный файл (при его загрузке сохраняется рядом). Редакцию и базовый список необходимо уточнить по предисловию. Путешествие около 1200 г., а не датировка рукописи.",
+      "actions": [],
+      "records": 1,
+      "segmentation_counts": {
+        "original_text_candidate": 1
+      },
+      "flags": {}
+    },
+    {
+      "id": "josephus",
+      "title": "Иосиф Флавий: История Иудейской войны, древнерусский перевод",
+      "edition": "Изд. Н. А. Мещерского. М.; Л., 1958; Виленский хронограф XVI в., разночтения по 8 спискам XV–XVI вв.",
+      "catalog_coverage": "scan_requires_ocr",
+      "notes": "Полный скан издания, 593 страницы PDF, включая ненумерованные страницы и опечатки; текст семи книг на печатных с. 167–467. Есть OCR-слой, но древнерусская орфография и греческие чтения распознаны с ошибками. Требуется проверка до автоматического разбора. Копия скачана из Института истории Украины; Азбука требует входа для скачивания PDF. Издание 2002 г. по более раннему Архивскому хронографу остаётся желательным дополнением.",
+      "actions": [
+        "Вычитать OCR/HTR по изображениям, выделить основной текст, исключить аппарат и посторонние разделы; проверить пропущенные строки."
+      ],
+      "records": 305,
+      "segmentation_counts": {
+        "mixed_page_requires_selection": 305
+      },
+      "flags": {
+        "recognition_requires_proofreading": 305,
+        "base_text_variants_and_boundaries_require_review": 305,
+        "greek_characters_check_against_source": 289
+      }
+    },
+    {
+      "id": "andrew_fool",
+      "title": "Житие Андрея Юродивого",
+      "edition": "РГБ, ф. 98, Егорова № 162, вторая четверть (1440-е гг.?) XV в.; дополнительно выборка по РГАДА, Син. тип. 182 конца XIV в. в БЛДР. Т. 2",
+      "catalog_coverage": "manuscript_scan_requires_transcription",
+      "notes": "Фотографии раздела Жития в Егор. 162, л. 207–337 по каталогу; начало визуально подтверждено на изображении 212 (л. 206 об.–207). Сохранены изображения 211–346, включая границы и окончание тома. Рукопись пострадала от сырости: часть текста смыта; нижний угол л. 300 оторван. Полнота произведения требует текстологической сверки. БЛДР — только избранные эпизоды по более раннему списку конца XIV в. Полное издание Молдована 2000 г. пока не скачано.",
+      "actions": [
+        "Не смешивать разные списки и редакции; БЛДР / Манускрипт могут быть только выборкой, не заменяют полную рукопись.",
+        "Вычитать OCR/HTR по изображениям, выделить основной текст, исключить аппарат и посторонние разделы; проверить пропущенные строки."
+      ],
+      "records": 137,
+      "segmentation_counts": {
+        "original_text_candidate": 1,
+        "manuscript_boundaries_require_review": 136
+      },
+      "flags": {
+        "recognition_requires_proofreading": 136,
+        "base_text_variants_and_boundaries_require_review": 136,
+        "latin_characters_check_against_source": 58,
+        "greek_characters_check_against_source": 31,
+        "private_use_encoding": 4,
+        "partial_segmentation": 1
+      }
+    },
+    {
+      "id": "nicholas_miracles",
+      "title": "Чудеса Николы",
+      "edition": "Манускрипт; А. А. Пичхадзе, ИРЯ РАН; Златоструй с Торжественником XII в., РНБ F.п.I.46; дополнительно БЛДР. Т. 2",
+      "catalog_coverage": "selected_early_cycle",
+      "notes": "Ранний переводной цикл по РНБ F.п.I.46 (XII в.), л. 66а–76б по введению БЛДР. Манускрипт отдаёт 21 блок с обозначениями 66.1–76.1, в конце завершение с аминь; интерфейс помечен ДЕМО, соответствие всех блоков листам требует сверки. PUA/Menaion, без конверсии в обычный Unicode. БЛДР даёт древнерусские тексты чудес рядом с переводом, с оговорёнными исправлениями по позднейшим спискам. Это выбранный ранний цикл, не все существующие рассказы о Николе. При использовании транскрипции обязательны ссылки на ИРЯ РАН и А. А. Пичхадзе.",
+      "actions": [
+        "Не смешивать разные списки и редакции; БЛДР / Манускрипт могут быть только выборкой, не заменяют полную рукопись.",
+        "Манускрипт: PUA сохранены с Menaion; нужна подтверждённая таблица конверсии. Эти файлы находятся в encoding_blocked/."
+      ],
+      "records": 2,
+      "segmentation_counts": {
+        "encoding_blocked": 1,
+        "original_text_candidate": 1
+      },
+      "flags": {
+        "private_use_encoding": 1,
+        "latin_characters_check_against_source": 1
+      }
+    },
+    {
+      "id": "pchela",
+      "title": "Пчела, древнерусский перевод",
+      "edition": "Манускрипт; А. А. Пичхадзе, ИРЯ РАН; В. Семенов. Древняя русская Пчела по пергаменному списку. СПб., 1893 (по списку XV в.)",
+      "catalog_coverage": "scan_requires_ocr",
+      "notes": "Полный скан тома СОРЯС 54, № 4/5 (1893) из Президентской библиотеки, 600 изображений страниц, включая обложки и № 5 (переписку Карамзина). Для анализа выделить № 4: исследование и полный текст Пчелы с греческими параллелями. Дополнительно неполная электронная транскрипция Манускрипта, страницы 2.1–30.1, в PUA/Menaion. При использовании транскрипции обязательны ссылки на ИРЯ РАН и А. А. Пичхадзе.",
+      "actions": [
+        "Не смешивать разные списки и редакции; БЛДР / Манускрипт могут быть только выборкой, не заменяют полную рукопись.",
+        "Манускрипт: PUA сохранены с Menaion; нужна подтверждённая таблица конверсии. Эти файлы находятся в encoding_blocked/.",
+        "Вычитать OCR/HTR по изображениям, выделить основной текст, исключить аппарат и посторонние разделы; проверить пропущенные строки."
+      ],
+      "records": 445,
+      "segmentation_counts": {
+        "encoding_blocked": 1,
+        "provisional_original_column": 444
+      },
+      "flags": {
+        "private_use_encoding": 29,
+        "recognition_requires_proofreading": 444,
+        "base_text_variants_and_boundaries_require_review": 444,
+        "automatic_left_column_and_footer_detection_requires_review": 444,
+        "greek_characters_check_against_source": 105,
+        "latin_characters_check_against_source": 103,
+        "partial_segmentation": 3
+      }
+    },
+    {
+      "id": "akir",
+      "title": "Повесть об Акире Премудром",
+      "edition": "БЛДР. Т. 3. СПб., 1999; подготовка О. В. Творогова; РГБ, ОИДР № 189, XV в.",
+      "catalog_coverage": "complete_online_text",
+      "notes": "Древнейшая редакция, полный список ОИДР 189 (XV в.), с исправлениями по Вахрамеевскому, Хлудовскому и Соловецкому спискам. Источник прямо описывает ошибки базового списка; HTML включает древнерусский текст, перевод и комментарии.",
+      "actions": [],
+      "records": 1,
+      "segmentation_counts": {
+        "original_text_candidate": 1
+      },
+      "flags": {}
+    }
+  ],
+  "runs": [
+    {
+      "job": "josephus-1958",
+      "engine": "tesseract",
+      "fingerprint": "5e05903a28ed076a878254e4619022f1cdb527f5b66b678662efa9574856473b",
+      "expected_pages": 593,
+      "packaged_pages": [
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476
+      ],
+      "missing_relevant_pages": [],
+      "errors": []
+    },
+    {
+      "job": "kirik-2011",
+      "engine": "tesseract",
+      "fingerprint": "1d56eb5ae4b2c3e32396757d406aaeeff287e04f7736037a5588eb2b1b324172",
+      "expected_pages": 544,
+      "packaged_pages": [],
+      "missing_relevant_pages": [],
+      "errors": []
+    },
+    {
+      "job": "kirik-rib6",
+      "engine": "tesseract",
+      "fingerprint": "27af551ae5249d0f23858e9194997a145fb264e333ac691ed9e8aaa83e217b9f",
+      "expected_pages": 682,
+      "packaged_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682
+      ],
+      "missing_relevant_pages": [],
+      "errors": []
+    },
+    {
+      "job": "pchela-1893",
+      "engine": "tesseract",
+      "fingerprint": "36a68539fd1d3f432d8dcee1e5b1901e5d582f3416d72401c1f0ebc1c4297e75",
+      "expected_pages": 520,
+      "packaged_pages": [],
+      "missing_relevant_pages": [],
+      "errors": []
+    },
+    {
+      "job": "andrew-egor162",
+      "engine": "kraken",
+      "fingerprint": "6f536493d1ac0d254c9a509c89b74bcb99674bd4f9a199a9f2c07990e7233566",
+      "expected_pages": 136,
+      "packaged_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "missing_relevant_pages": [],
+      "errors": []
+    },
+    {
+      "job": "kirik-2011",
+      "engine": "kraken",
+      "fingerprint": "6c4b98214d51f8d06e003f21c288f6cae30b452729b226d31eeb29fe0874ea01",
+      "expected_pages": 146,
+      "packaged_pages": [
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534
+      ],
+      "missing_relevant_pages": [],
+      "errors": []
+    },
+    {
+      "job": "pchela-1893",
+      "engine": "kraken",
+      "fingerprint": "7c826fcddc2b548891f2425a683a93d027a404ad99856a4f3aac779c475a196b",
+      "expected_pages": 444,
+      "packaged_pages": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518
+      ],
+      "missing_relevant_pages": [],
+      "errors": []
+    }
+  ],
+  "directories": {
+    "texts": "Original HTML text candidates",
+    "ocr_candidates": "Provisional OCR/HTR original-text candidates",
+    "needs_segmentation": "Mixed OCR evidence: NOT isolated Old Russian",
+    "encoding_blocked": "PUA originals: NOT standardized Unicode"
+  }
+}

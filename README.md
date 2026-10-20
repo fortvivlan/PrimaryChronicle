@@ -39,6 +39,20 @@ python3 -m http.server 8000 --directory docs
 `python3 scripts/download_sources.py`; проверка локальных копий:
 `python3 scripts/download_sources.py --verify`.
 
+Сканы обрабатываются отдельно: [OCR/HTR и вычитка](sources/OCR.md).
+`python3 scripts/ocr_sources.py --list` показывает задания;
+результаты с постраничными координатами, оценками уверенности и контрольными
+суммами сохраняются в `data/ocr/` со статусом `unreviewed`.
+
+Подготовленные оригинальные тексты находятся в `data/old_russian/`;
+смешанные OCR и нерасшифрованные шрифтовые коды выделены отдельно.
+[Аудит и инструкция эксперту](sources/REVIEW.md) описывают ограничения.
+Для вычитки **без Python и сервера** передайте `data/expert_review.zip`:
+после распаковки открыть `expert_review/index.html` двойным щелчком.
+Пакет включает редактор, сверку со сканами и экспорт правок; фотографии
+Андрея и «Пчелы» по умолчанию подгружаются из Интернета.
+Пересборка для сопровождающего: `python3 scripts/prepare_sources.py --zip`.
+
 В крупнейшей таблице DOCX — 179 примеров (две строки заголовка не включены),
 из них 8 в недатированной преамбуле. Датированные примеры: 852–1115 гг.
 JSON находится в `docs/assets/records.json`; его можно публиковать вместе с сайтом.
@@ -80,6 +94,7 @@ python3 scripts/extract_data.py "data/ПВЛ ПЕРФ R 8.docx"
 ```bash
 python3 -m unittest discover -s tests -p 'test_*.py'
 node --test tests/filters.test.cjs
+node --test tests/review.test.cjs
 ```
 
 ## GitHub Pages

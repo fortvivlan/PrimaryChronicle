@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Мастерская вычитки · PrimaryChronicle</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="data.js"></script>
+  <script defer src="review-core.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header>
+    <div><span class="eyebrow">PRIMARYCHRONICLE / ИСТОЧНИКИ</span><h1>Мастерская вычитки</h1></div>
+    <div class="transfer"><button id="export">Сохранить правки в файл</button><label class="button secondary">Открыть файл правок<input id="import" type="file" accept=".json,application/json" hidden></label></div>
+  </header>
+  <p class="intro">Древнерусские тексты · сверка с источником · исправления эксперта</p>
+  <div id="message" role="status" aria-live="polite">Загрузка локального пакета…</div>
+  <noscript>Для работы включите JavaScript в браузере.</noscript>
+  <div class="workspace">
+    <aside>
+      <label for="source">Памятник</label><select id="source"></select>
+      <label for="query">Поиск по текстам</label><input id="query" type="search" placeholder="Слово или номер файла">
+      <label for="status-filter">Состояние</label><select id="status-filter"><option value="all">Все материалы</option><option value="draft">Ожидают вычитки</option><option value="reviewed">Вычитано</option><option value="excluded">Исключено</option><option value="mixed">Нужно выделить основной текст</option><option value="encoding">Проблемы кодировки</option></select>
+      <p id="count" class="muted"></p><div id="records" role="list" aria-label="Материалы для вычитки"></div>
+      <button id="reviewed-export" class="secondary">Выгрузить вычитанные тексты</button>
+      <details><summary>Как работать</summary><p>1. Выберите материал. Сверьте его с источником справа.</p><p>2. Оставьте в редакторе только основной древнерусский текст. Удалите аппарат, перевод и греческие параллели.</p><p>3. Исправьте чтение и подтвердите две проверки. Выберите «Вычитано».</p><p>4. Регулярно сохраняйте файл правок. Он нужен для передачи результатов и переноса между компьютерами.</p><p>Браузерная копия зависит от браузера и расположения папки. В приватном режиме она может исчезнуть.</p><a href="README.md" target="_blank">Полная инструкция</a></details>
+    </aside>
+    <main>
+      <section class="source-info"><h2 id="title">Выберите материал</h2><p id="edition"></p><details><summary>Состав и дальнейшая обработка</summary><p id="source-notes"></p><ul id="actions"></ul></details></section>
+      <nav class="record-nav"><button id="prev" class="secondary" aria-label="Предыдущий материал">←</button><span id="record-label"></span><button id="next" class="secondary" aria-label="Следующий материал">→</button><span id="position" class="muted"></span></nav>
+      <p id="flags" class="notice"></p>
+      <div class="panes">
+        <section class="editor panel">
+          <div class="panel-title"><h3>Текст для вычитки</h3><span id="save-status" class="muted"></span></div>
+          <p class="muted">Автоматическое чтение — черновик. Редактирование создаёт отдельную экспертную версию.</p>
+          <div id="symbols" aria-label="Вставка исторических букв и знаков"></div>
+          <label class="sr-only" for="editor">Редактируемый древнерусский текст</label><textarea id="editor" spellcheck="false" lang="orv"></textarea>
+          <div class="checks"><label><input id="body-confirmed" type="checkbox">Оставлен только основной древнерусский текст; границы проверены</label><label><input id="encoding-confirmed" type="checkbox">Буквы, титла, надстрочные знаки и пропущенные строки сверены</label></div>
+          <div class="review-fields"><label>Проверяющий<input id="reviewer" autocomplete="name" placeholder="Имя эксперта"></label><label>Состояние<select id="review-status"><option value="draft">Черновик</option><option value="reviewed">Вычитано</option><option value="excluded">Исключено</option></select></label></div>
+          <label for="note">Замечание: сомнения, лакуны, границы, атрибуция</label><textarea id="note" rows="3" spellcheck="true"></textarea>
+          <details><summary>Происхождение и преобразования</summary><pre id="provenance"></pre></details>
+        </section>
+        <section class="evidence panel">
+          <div class="panel-title"><h3>Сверка с источником</h3><a id="source-link" target="_blank" rel="noopener noreferrer">Источник ↗</a></div>
+          <p id="image-info" class="muted"></p>
+          <div id="image-controls"><label><input id="boxes" type="checkbox" checked>Области строк</label><label class="button secondary">Открыть изображение<input id="local-image" type="file" accept="image/*" hidden></label></div>
+          <p id="image-error" class="notice" hidden>Изображение недоступно. Откройте источник по ссылке или выберите сохранённое изображение. Для удалённых сканов нужен Интернет.</p>
+          <div id="image-frame"><img id="scan" alt="Страница источника для сверки"><svg id="overlay" aria-hidden="true"></svg></div>
+          <details id="line-details"><summary>Выделить строки основного текста</summary><p class="muted">Выберите строки по изображению; затем перенесите их в редактор. Текущее чтение редактора будет заменено.</p><button id="apply-lines" class="secondary">Перенести выбранные строки</button><div id="lines"></div></details>
+          <details id="html-details"><summary>Извлечённый фрагмент HTML с исходными знаками</summary><div id="html-evidence"></div></details>
+          <details><summary>Автоматическое чтение до исправлений</summary><pre id="raw-text"></pre></details>
+          <div id="alternatives"></div>
+        </section>
+      </div>
+    </main>
+  </div>
+  <footer>Исходники сохранены отдельно. Вычитка текста не заменяет семантическую разметку. <a href="audit.json" target="_blank">Аудит пакета</a></footer>
+</body>
+</html>

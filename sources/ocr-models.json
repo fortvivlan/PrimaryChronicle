@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "models": [
+    {
+      "id": "orus",
+      "filename": "orus.traineddata",
+      "url": "https://raw.githubusercontent.com/AButon-8/iskra_ocr/02f34dc42af9f78d022848e83e103b182c9af134/orus.traineddata",
+      "sha256": "cac59e7e4b8e29de87a1ab8c831c8abff5bfc4492f137adc3bd31ec9e8bf2a13",
+      "bytes": 11786045,
+      "revision": "02f34dc42af9f78d022848e83e103b182c9af134",
+      "license": "Apache-2.0",
+      "description": "Iskra pre-reform civil-font Russian; not a medieval Cyrillic model"
+    },
+    {
+      "id": "rus",
+      "filename": "rus.traineddata",
+      "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/e12c65a915945e4c28e237a9b52bc4a8f39a0cec/rus.traineddata",
+      "sha256": "b617eb6830ffabaaa795dd87ea7fd251adfe9cf0efe05eb9a2e8128b7728d6b6",
+      "bytes": 15301764,
+      "revision": "e12c65a915945e4c28e237a9b52bc4a8f39a0cec",
+      "license": "Apache-2.0",
+      "description": "Tesseract tessdata_best rus"
+    },
+    {
+      "id": "grc",
+      "filename": "grc.traineddata",
+      "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/e12c65a915945e4c28e237a9b52bc4a8f39a0cec/grc.traineddata",
+      "sha256": "dfc9bda286cd9d8755b1832e5731a5425d1cf0803393a5fa6dee078466178cf1",
+      "bytes": 5168122,
+      "revision": "e12c65a915945e4c28e237a9b52bc4a8f39a0cec",
+      "license": "Apache-2.0",
+      "description": "Tesseract tessdata_best grc"
+    },
+    {
+      "id": "ppocrv6-medium",
+      "filename": "ppocrv6-medium.safetensors",
+      "url": "https://zenodo.org/records/21788410/files/medium.safetensors",
+      "license": "Apache-2.0",
+      "description": "Benjamin Kiessling, PP-OCRv6 medium v1, multilingual line recognition including Church Slavonic; DOI 10.5281/zenodo.21788410",
+      "bytes": 63779644,
+      "sha256": "15313b51ace64cbfa81f8f6ef25ad64f04e5a6fb7f7823e67b107527bc081ac9"
+    },
+    {
+      "id": "Cyr02full_best",
+      "filename": "Cyr02full_best.mlmodel",
+      "url": "https://zenodo.org/records/7755483/files/Cyr02full_best.mlmodel",
+      "license": "CC-BY-2.0",
+      "description": "Generic Old Cyrillic model, uncial and semi-uncial; compare only after validating the target witness; DOI 10.5281/zenodo.7755483",
+      "bytes": 16327306,
+      "sha256": "b7f5093da27b559dde74556badc31e5ac9888c4e0075e4700e6f450f2bead690"
+    },
+    {
+      "id": "blla",
+      "filename": "blla.mlmodel",
+      "url": "https://raw.githubusercontent.com/mittagessen/kraken/main/kraken/blla.mlmodel",
+      "license": "Apache-2.0",
+      "description": "Kraken default baseline segmentation model; content pinned by SHA-256",
+      "bytes": 5047641,
+      "sha256": "a3ccc7309fe8df62d1cbd372706edc73db6a2a32806e3758522ed8528a734073"
+    },
+    {
+      "id": "ppocrv6-tiny",
+      "filename": "ppocrv6-tiny.safetensors",
+      "url": "https://zenodo.org/records/21788403/files/tiny.safetensors",
+      "license": "Apache-2.0",
+      "description": "Benjamin Kiessling, PP-OCRv6 tiny v1, multilingual recognition including Church Slavonic; DOI 10.5281/zenodo.21788403",
+      "bytes": 2837508,
+      "sha256": "972700b1c72de14bdde028f9b06d77f13c88ec60da5e942bb9e57aca421fa361"
+    },
+    {
+      "id": "ppocrv6-small",
+      "filename": "ppocrv6-small.safetensors",
+      "url": "https://zenodo.org/records/21788405/files/small.safetensors",
+      "license": "Apache-2.0",
+      "description": "Benjamin Kiessling, PP-OCRv6 small v1, multilingual recognition including Church Slavonic; DOI 10.5281/zenodo.21788405",
+      "bytes": 13065380,
+      "sha256": "3108259779f5abfed3908a1c9eafba64d17e4a2a169368c539ecfeff04c018f3"
+    }
+  ]
+}
