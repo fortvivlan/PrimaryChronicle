@@ -1,0 +1,776 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-10-20",
+  "preference": "Ранние списки и редакции предпочтительны. Дата создания произведения, дата списка и год издания учитываются раздельно.",
+  "local_root": "data/texts",
+  "sources": [
+    {
+      "id": "pvl_laurentian",
+      "title": "ПВЛ: Лаврентьевский список",
+      "edition": "ПСРЛ. Т. 1. Л., 1926–1928; список 1377 г.",
+      "coverage": "complete_online_text",
+      "notes": "ПВЛ до 1110 г.; вставка сочинений Мономаха хранится отдельно в monomakh/. Издание содержит разночтения других списков.",
+      "files": [
+        {
+          "path": "lavrlet/index.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "edition_index"
+        },
+        {
+          "path": "lavrlet/lavr01.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr01.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr02.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr02.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr03.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr03.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr04.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr04.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr05.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr05.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr06.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr06.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr07.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr07.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr08.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr08.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr09.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr09.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr10.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr10.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr11.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr11.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr13.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr13.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr14.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr14.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "pvl_hypatian",
+      "title": "ПВЛ: Ипатьевский список",
+      "edition": "ПСРЛ. Т. 2. СПб., 1908",
+      "coverage": "complete_online_text",
+      "notes": "ПВЛ до 1117 г.; оригинальный текст, не современный перевод.",
+      "files": [
+        {
+          "path": "ipatlet/index.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "edition_index"
+        },
+        {
+          "path": "ipatlet/ipat01.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat01.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat02.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat02.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat03.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat03.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat04.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat04.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat05.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat05.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat06.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat06.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat07.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat07.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat08.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat08.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat09.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat09.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat10.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat10.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat11.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat11.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat12.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat12.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "kiev_chronicle",
+      "title": "Киевская летопись",
+      "edition": "ПСРЛ. Т. 2. СПб., 1908; Ипатьевский список",
+      "coverage": "complete_online_text",
+      "notes": "Раздел Киевского свода по оглавлению источника: 1118–1200 гг. Датировка заключительных статей зависит от списка.",
+      "files": [
+        {
+          "path": "ipatlet/ipat13.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat13.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat14.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat14.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat15.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat15.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat16.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat16.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat17.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat17.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat18.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat18.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat19.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat19.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat20.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat20.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat21.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat21.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat22.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat22.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat23.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat23.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat24.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat24.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat25.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat25.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat26.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat26.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat27.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat27.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat28.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat28.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat29.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat29.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "ipatlet/ipat30.htm",
+          "url": "http://litopys.org.ua/ipatlet/ipat30.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "suzdal_chronicle",
+      "title": "Суздальская летопись, старая часть по 1205 г.",
+      "edition": "ПСРЛ. Т. 1. Л., 1926–1928; Лаврентьевский список",
+      "coverage": "complete_with_boundary_overrun",
+      "notes": "Раздел 1111–1205 гг. Сохранена целиком последняя HTML-страница lavr23.htm, включающая также начало 1206 г.; перед анализом требуется отсечение по году.",
+      "files": [
+        {
+          "path": "lavrlet/lavr15.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr15.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr16.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr16.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr17.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr17.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr18.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr18.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr19.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr19.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr20.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr20.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr21.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr21.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr22.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr22.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "lavrlet/lavr23.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr23.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "novgorod_first_older",
+      "title": "Новгородская первая летопись старшего извода по 1204 г.",
+      "edition": "Под ред. А. Н. Насонова. М.; Л., 1950; Синодальный список",
+      "coverage": "complete_online_text",
+      "notes": "Страницы novg01–04: сохранившийся текст с 1016 по 1204 г. включительно; младший извод не подставляется вместо утраченного начала.",
+      "files": [
+        {
+          "path": "novglet/index.htm",
+          "url": "http://litopys.org.ua/novglet/novg.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "edition_index"
+        },
+        {
+          "path": "novglet/novg01.htm",
+          "url": "http://litopys.org.ua/novglet/novg01.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "novglet/novg02.htm",
+          "url": "http://litopys.org.ua/novglet/novg02.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "novglet/novg03.htm",
+          "url": "http://litopys.org.ua/novglet/novg03.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "novglet/novg04.htm",
+          "url": "http://litopys.org.ua/novglet/novg04.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "monomakh",
+      "title": "Владимир Мономах: сочинения в Лаврентьевской летописи",
+      "edition": "ПСРЛ. Т. 1. Л., 1926; Лаврентьевский список",
+      "coverage": "complete_online_text",
+      "notes": "Вставка «Поученье», автобиографическая часть, письмо Олегу; проверить границы заключительного молитвенного текста перед атрибуцией.",
+      "files": [
+        {
+          "path": "monomakh/lavr12.htm",
+          "url": "http://litopys.org.ua/lavrlet/lavr12.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "daniel",
+      "title": "Даниил игумен: Хождение, первая редакция",
+      "edition": "БЛДР. Т. 4. СПб., 1997; подготовка Г. М. Прохорова; РНБ Q.XVII.88, 1495 г.",
+      "coverage": "complete_online_text",
+      "notes": "Введение прямо называет первую редакцию; восполнения по РГБ, Рум. 335, XV–XVI вв. HTML включает древнерусский текст, современный перевод и комментарии; их нужно разделить перед анализом.",
+      "files": [
+        {
+          "path": "daniel/bldr4-1.html",
+          "url": "https://azbyka.ru/otechnik/Istorija_Tserkvi/biblioteka-literatury-drevnej-rusi-tom-4/1",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "kirik",
+      "title": "Кирик Новгородец: Вопрошание; Учение о числах",
+      "edition": "Мильков В. В., Симонов Р. А. Кирик Новгородец: ученый и мыслитель. М.: Кругъ, 2011. 544 с.; дополнительно скан РИБ, т. 6",
+      "coverage": "complete_editions_require_text_extraction",
+      "notes": "В PDF 2011 г.: Учение о числах по четырём спискам на с. 312–334, фотокопия ещё одного списка с. 335–341; Вопрошание: основная редакция по ГИМ Увар. 791 (XV в.) с разночтениями Син. 132 (XIII в.) и др. на с. 358–412, особая на с. 474–511, краткая на с. 512–524, комбинированная на с. 525–534. Устаревшая кодировка шрифтов делает текстовый слой непригодным без проверки. Скан РИБ в ZIP/DJVU сохраняется как дополнительный контрольный источник; его выходные данные ещё нужно сверить. HTML acathist упрощает орфографию; отдельные страницы Азбуки с пометой translation — современные переводы.",
+      "files": [
+        {
+          "path": "kirik/rib6.zip",
+          "url": "https://www.phantastike.com/history/kolavt_rusistbibl_arhkom_t6/zip/",
+          "kind": "zip",
+          "role": "scan_archive"
+        },
+        {
+          "path": "kirik/rib6.html",
+          "url": "https://www.acathist.ru/novosti/item/3245-pavlov-a-s-pamyatniki-drevnerusskogo-kanonicheskogo-prava",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        },
+        {
+          "path": "kirik/questions-translation.html",
+          "url": "https://azbyka.ru/otechnik/Kirik_Novgorodskij/voproshanii-kirika/",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "modern_translation"
+        },
+        {
+          "path": "kirik/numbers-translation.html",
+          "url": "https://azbyka.ru/otechnik/Kirik_Novgorodskij/nastavlenie-kak-cheloveku-poznat-schislenie-let/",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "modern_translation"
+        },
+        {
+          "path": "kirik/milkov-simonov-2011.pdf",
+          "url": "https://iphras.ru/uplfile/root/biblio/russ/Kirik_2011.pdf",
+          "kind": "pdf",
+          "role": "edition_with_texts"
+        }
+      ]
+    },
+    {
+      "id": "ilya_ioann",
+      "title": "Илья — Иоанн Новгородский: Поучение",
+      "edition": "А. С. Павлов. Неизданный памятник русского церковного права XII века. 1890",
+      "coverage": "edition_review_required",
+      "notes": "Поучение в публикации Павлова 1890 г. по списку XV в.; текст и разночтения сохранены в HTML. Точность электронной передачи и специальные символы требуют сверки со сканом. Дополнительные канонические тексты и Ильино вопрошание находятся в kirik/rib6.html и издании Кирика 2011 г.; атрибуция отдельных частей не безусловна.",
+      "files": [
+        {
+          "path": "ilya_ioann/pavlov-1890.html",
+          "url": "https://acathist.ru/en/novosti/item/3244-pavlov-a-s-neizdannyj-pamyatnik-russkogo-tserkovnogo-prava-xii-veka",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "antony",
+      "title": "Антоний, архиепископ Новгородский: Книга Паломник",
+      "edition": "Путешествие Новгородского архиепископа Антония в Царьград в конце XII столетия. Под ред. П. И. Савваитова. СПб., 1872",
+      "coverage": "complete_online_text",
+      "notes": "Древнерусский текст по публикации Савваитова 1872 г., Восточная литература (2004). Библиографическая ссылка подтверждена внизу страницы; примечания вынесены в отдельный файл (при его загрузке сохраняется рядом). Редакцию и базовый список необходимо уточнить по предисловию. Путешествие около 1200 г., а не датировка рукописи.",
+      "files": [
+        {
+          "path": "antony/text.html",
+          "url": "https://www.vostlit.info/Texts/rus2/Hozenija/XII/Antonij/text.phtml",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "text"
+        },
+        {
+          "path": "antony/preface.html",
+          "url": "https://www.vostlit.info/Texts/rus2/Hozenija/XII/Antonij/pred.phtml",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "edition_preface"
+        },
+        {
+          "path": "antony/primtext.phtml",
+          "url": "https://www.vostlit.info/Texts/rus2/Hozenija/XII/Antonij/primtext.phtml",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "edition_notes"
+        }
+      ]
+    },
+    {
+      "id": "josephus",
+      "title": "Иосиф Флавий: История Иудейской войны, древнерусский перевод",
+      "edition": "Изд. Н. А. Мещерского. М.; Л., 1958; Виленский хронограф XVI в., разночтения по 8 спискам XV–XVI вв.",
+      "coverage": "scan_requires_ocr",
+      "notes": "Полный скан издания, 593 страницы PDF, включая ненумерованные страницы и опечатки; текст семи книг на печатных с. 167–467. Есть OCR-слой, но древнерусская орфография и греческие чтения распознаны с ошибками. Требуется проверка до автоматического разбора. Копия скачана из Института истории Украины; Азбука требует входа для скачивания PDF. Издание 2002 г. по более раннему Архивскому хронографу остаётся желательным дополнением.",
+      "files": [
+        {
+          "path": "josephus/edition.html",
+          "url": "https://azbyka.ru/otechnik/Istorija_Tserkvi/istorija-iudejskoj-vojny-iosifa-flavija-v-drevnerusskom-perevode/",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "edition_description"
+        },
+        {
+          "path": "josephus/meshchersky-1958.pdf",
+          "url": "https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0013106.pdf&IMAGE_FILE_DOWNLOAD=0",
+          "kind": "pdf",
+          "encoding": "utf-8",
+          "role": "text"
+        },
+        {
+          "path": "josephus/history-catalog.html",
+          "url": "https://resource.history.org.ua/book/en/0013106",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "edition_description"
+        }
+      ]
+    },
+    {
+      "id": "andrew_fool",
+      "title": "Житие Андрея Юродивого",
+      "edition": "РГБ, ф. 98, Егорова № 162, вторая четверть (1440-е гг.?) XV в.; дополнительно выборка по РГАДА, Син. тип. 182 конца XIV в. в БЛДР. Т. 2",
+      "coverage": "manuscript_scan_requires_transcription",
+      "notes": "Фотографии раздела Жития в Егор. 162, л. 207–337 по каталогу; начало визуально подтверждено на изображении 212 (л. 206 об.–207). Сохранены изображения 211–346, включая границы и окончание тома. Рукопись пострадала от сырости: часть текста смыта; нижний угол л. 300 оторван. Полнота произведения требует текстологической сверки. БЛДР — только избранные эпизоды по более раннему списку конца XIV в. Полное издание Молдована 2000 г. пока не скачано.",
+      "files": [
+        {
+          "path": "andrew_fool/bldr2-13.html",
+          "url": "https://azbyka.ru/otechnik/Istorija_Tserkvi/biblioteka-literatury-drevnej-rusi-tom-2/13",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        },
+        {
+          "path": "andrew_fool/egor162-catalog.html",
+          "url": "https://lib-fond.ru/lib-rgb/98/f-98-162/",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "manuscript_description"
+        },
+        {
+          "path": "andrew_fool/egor162-pages.html",
+          "url": "https://lib-fond.ru/lib-rgb/98/f-98-162/pages",
+          "kind": "fragment",
+          "role": "image_manifest"
+        }
+      ],
+      "file_manifest": "sources/andrew-pages.json"
+    },
+    {
+      "id": "nicholas_miracles",
+      "title": "Чудеса Николы",
+      "edition": "Манускрипт; А. А. Пичхадзе, ИРЯ РАН; Златоструй с Торжественником XII в., РНБ F.п.I.46; дополнительно БЛДР. Т. 2",
+      "coverage": "selected_early_cycle",
+      "notes": "Ранний переводной цикл по РНБ F.п.I.46 (XII в.), л. 66а–76б по введению БЛДР. Манускрипт отдаёт 21 блок с обозначениями 66.1–76.1, в конце завершение с аминь; интерфейс помечен ДЕМО, соответствие всех блоков листам требует сверки. PUA/Menaion, без конверсии в обычный Unicode. БЛДР даёт древнерусские тексты чудес рядом с переводом, с оговорёнными исправлениями по позднейшим спискам. Это выбранный ранний цикл, не все существующие рассказы о Николе. При использовании транскрипции обязательны ссылки на ИРЯ РАН и А. А. Пичхадзе.",
+      "files": [
+        {
+          "path": "nicholas_miracles/manuscript-excerpt.html",
+          "url": "http://www.manuscripts.ru/mns/mns_rbee.nick?P_RES_FORM=001&P_PAGE=&U_PAGE=&P_MASK=&P_MASK_MODE=SF&P_GR=",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        },
+        {
+          "path": "nicholas_miracles/bldr2-9.html",
+          "url": "https://azbyka.ru/otechnik/Istorija_Tserkvi/biblioteka-literatury-drevnej-rusi-tom-2/9",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "pchela",
+      "title": "Пчела, древнерусский перевод",
+      "edition": "Манускрипт; А. А. Пичхадзе, ИРЯ РАН; В. Семенов. Древняя русская Пчела по пергаменному списку. СПб., 1893 (по списку XV в.)",
+      "coverage": "scan_requires_ocr",
+      "notes": "Полный скан тома СОРЯС 54, № 4/5 (1893) из Президентской библиотеки, 600 изображений страниц, включая обложки и № 5 (переписку Карамзина). Для анализа выделить № 4: исследование и полный текст Пчелы с греческими параллелями. Дополнительно неполная электронная транскрипция Манускрипта, страницы 2.1–30.1, в PUA/Menaion. При использовании транскрипции обязательны ссылки на ИРЯ РАН и А. А. Пичхадзе.",
+      "files": [
+        {
+          "path": "pchela/manuscript-excerpt.html",
+          "url": "http://www.manuscripts.ru/rbee/main?P_MNSC=Russian&P_RES_FORM=001&P_PAGE=&U_PAGE=&P_MASK=&P_GR=",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        },
+        {
+          "path": "pchela/prlib-catalog.html",
+          "url": "https://www.prlib.ru/item/363803",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "edition_description"
+        },
+        {
+          "path": "pchela/prlib-images.json",
+          "url": "https://content.prlib.ru/metadata/public/12621679-44BC-4164-816C-35B9D237D397/5877199/12621679-44BC-4164-816C-35B9D237D397.json",
+          "kind": "json",
+          "role": "image_manifest"
+        }
+      ],
+      "file_manifest": "sources/pchela-pages.json"
+    },
+    {
+      "id": "akir",
+      "title": "Повесть об Акире Премудром",
+      "edition": "БЛДР. Т. 3. СПб., 1999; подготовка О. В. Творогова; РГБ, ОИДР № 189, XV в.",
+      "coverage": "complete_online_text",
+      "notes": "Древнейшая редакция, полный список ОИДР 189 (XV в.), с исправлениями по Вахрамеевскому, Хлудовскому и Соловецкому спискам. Источник прямо описывает ошибки базового списка; HTML включает древнерусский текст, перевод и комментарии.",
+      "files": [
+        {
+          "path": "akir/bldr3-2.html",
+          "url": "https://azbyka.ru/otechnik/Istorija_Tserkvi/biblioteka-literatury-drevnej-rusi-tom-3/2",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "text"
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "title": "Описания электронных изданий и шрифты",
+      "edition": "Изборник; Манускрипт",
+      "coverage": "support",
+      "notes": "Сохранённые описания устанавливают происхождение и условия цитирования. Специальные шрифты нужны для исходных кодировок; файлы не являются текстами корпуса.",
+      "files": [
+        {
+          "path": "support/manuscripts.html",
+          "url": "http://www.manuscripts.ru/mns/portal.main?p1=11",
+          "kind": "html",
+          "encoding": "utf-8",
+          "role": "edition_description"
+        },
+        {
+          "path": "css/mns.css",
+          "url": "http://www.manuscripts.ru/css/mns.css",
+          "kind": "asset",
+          "encoding": "utf-8",
+          "role": "stylesheet"
+        },
+        {
+          "path": "fonts/menaion.ttf",
+          "url": "http://www.manuscripts.ru/fonts/menaion.ttf",
+          "kind": "asset",
+          "encoding": "utf-8",
+          "role": "font"
+        },
+        {
+          "path": "shryft/timeslit.ttf",
+          "url": "http://litopys.org.ua/shryft/timeslit.ttf",
+          "kind": "asset",
+          "role": "font"
+        },
+        {
+          "path": "shryft/description.htm",
+          "url": "http://litopys.org.ua/shryft/sh.htm",
+          "kind": "html",
+          "encoding": "cp1251",
+          "role": "font_description"
+        },
+        {
+          "path": "lavrlet/lavr.css",
+          "url": "http://litopys.org.ua/lavrlet/lavr.css",
+          "kind": "asset",
+          "role": "stylesheet"
+        },
+        {
+          "path": "ipatlet/ipat.css",
+          "url": "http://litopys.org.ua/ipatlet/ipat.css",
+          "kind": "asset",
+          "role": "stylesheet"
+        },
+        {
+          "path": "novglet/novg.css",
+          "url": "http://litopys.org.ua/novglet/novg.css",
+          "kind": "asset",
+          "role": "stylesheet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+[
+  {
+    "path": "andrew_fool/egor162/0211.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0532.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0212.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0533.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0213.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0534.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0214.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0535.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0215.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0536.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0216.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0537.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0217.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0538.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0218.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0539.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0219.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0540.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0220.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0541.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0221.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0542.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0222.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0543.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0223.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0544.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0224.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0545.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0225.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0546.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0226.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0547.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0227.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0548.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0228.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0549.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0229.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0550.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0230.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0551.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0231.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0552.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0232.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0553.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0233.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0554.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0234.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0555.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0235.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0556.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0236.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0557.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0237.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0558.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0238.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0559.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0239.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0560.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0240.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0561.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0241.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0562.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0242.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0563.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0243.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0564.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0244.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0565.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0245.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0566.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0246.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0567.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0247.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0568.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0248.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0569.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0249.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0570.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0250.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0571.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0251.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0572.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0252.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0573.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0253.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0574.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0254.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0575.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0255.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0576.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0256.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0577.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0257.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0578.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0258.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0579.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0259.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0580.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0260.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0581.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0261.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0582.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0262.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0583.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0263.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0584.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0264.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0585.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0265.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0586.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0266.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0587.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0267.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0588.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0268.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0589.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0269.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0590.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0270.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0591.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0271.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0592.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0272.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0593.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0273.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0594.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0274.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0595.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0275.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0596.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0276.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0597.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0277.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0598.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0278.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0599.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0279.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0600.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0280.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0601.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0281.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0602.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0282.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0603.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0283.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0604.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0284.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0605.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0285.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0606.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0286.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0607.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0287.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0608.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0288.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0609.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0289.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0610.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0290.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0611.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0291.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0612.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0292.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0613.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0293.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0614.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0294.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0615.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0295.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0616.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0296.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0617.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0297.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0618.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0298.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0619.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0299.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0620.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0300.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0621.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0301.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0622.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0302.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0623.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0303.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0624.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0304.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0625.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0305.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0626.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0306.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0627.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0307.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0628.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0308.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0629.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0309.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0630.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0310.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0631.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0311.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0632.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0312.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0633.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0313.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0634.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0314.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0635.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0315.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0636.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0316.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0637.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0317.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0639.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0318.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0640.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0319.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0641.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0320.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0642.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0321.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0643.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0322.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0644.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0323.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0645.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0324.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0646.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0325.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0647.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0326.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0648.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0327.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0649.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0328.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0650.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0329.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0651.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0330.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0652.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0331.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0653.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0332.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0654.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0333.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0655.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0334.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0656.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0335.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0657.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0336.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0658.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0337.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0659.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0338.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0660.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0339.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0662.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0340.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0663.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0341.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0664.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0342.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0665.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0343.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0666.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0344.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0667.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0345.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0668.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  },
+  {
+    "path": "andrew_fool/egor162/0346.jpg",
+    "url": "https://img.lib-fond.ru/%D0%A0%D0%93%D0%91/%D0%A4.98%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%95.%20%D0%95.%20%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/JPG/%D1%84.98%20%E2%84%960162/DSC_0669.JPG",
+    "kind": "jpeg",
+    "role": "manuscript_spread"
+  }
+]
